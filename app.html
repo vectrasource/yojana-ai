@@ -819,61 +819,26 @@ async function findSchemes() {
   const langNames = { en: 'English', hi: 'Hindi', ml: 'Malayalam', ta: 'Tamil', te: 'Telugu', kn: 'Kannada', bn: 'Bengali', mr: 'Marathi', gu: 'Gujarati' };
   const responseLang = langNames[currentLang] || 'English';
 
-  const userProfile = `
-Age: ${age || 'Not specified'}
-Annual Income: ${income ? '₹' + Number(income).toLocaleString('en-IN') : 'Not specified'}
-State: ${state || 'Not specified'}
-Gender: ${gender || 'Not specified'}
-Categories: ${selectedCategories.length > 0 ? selectedCategories.join(', ') : 'Not specified'}
-Additional details: ${freeText || 'None'}
-  `.trim();
-
-  const prompt = `You are an expert on Indian government schemes — both Central and State level. A user wants to find schemes they qualify for.
-
-User Profile:
-${userProfile}
-
-Response Language: ${responseLang}
-
-Instructions:
-1. Analyze the profile carefully
-2. Find 4-6 most relevant government schemes (Central + State if state is mentioned)
-3. For each scheme provide a JSON object
-4. Respond ONLY in JSON format — no markdown, no backticks, no explanation
-5. Write scheme descriptions and benefits in ${responseLang} (but keep JSON keys in English)
-6. Be specific about eligibility and actual benefit amounts
-
-Return this exact JSON structure:
-{
-  "schemes": [
-    {
-      "name": "Scheme name in ${responseLang}",
-      "ministry": "Ministry/Department name",
-      "match": "High/Medium",
-      "description": "2-3 sentence description in ${responseLang}",
-      "benefit": "Specific benefit amount or type in ${responseLang}",
-      "tags": ["tag1", "tag2", "tag3"],
-      "applyUrl": "https://actual-portal-url.gov.in or myscheme.gov.in"
-    }
-  ],
-  "summary": "One line summary in ${responseLang} about why these schemes were selected"
-}`;
-
   try {
-    const response = await fetch('https://api.anthropic.com/v1/messages', {
+    const response = await fetch('http://127.0.0.1:8000/find-schemes', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
-        max_tokens: 1000,
-        messages: [{ role: 'user', content: prompt }]
+        age: age || null,
+        income: income || null,
+        state: state || null,
+        gender: gender || null,
+        categories: selectedCategories,
+        free_text: freeText || null,
+        language: currentLang
       })
     });
 
-    const data = await response.json();
-    const raw = data.content.map(b => b.text || '').join('');
-    const clean = raw.replace(/```json|```/g, '').trim();
-    const parsed = JSON.parse(clean);
+    if (!response.ok) {
+      throw new Error('Server error: ' + response.status);
+    }
+
+    const parsed = await response.json();
     renderResults(parsed);
   } catch (err) {
     hideLoading();
