@@ -820,7 +820,7 @@ async function findSchemes() {
   const responseLang = langNames[currentLang] || 'English';
 
   try {
-    const response = await fetch('http://127.0.0.1:8000/find-schemes', {
+    const response = await fetch('https://yojana-ai-production-1401.up.railway.app/find-schemes', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({

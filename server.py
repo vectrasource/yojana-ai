@@ -160,7 +160,7 @@ async def find_schemes(req: SchemeRequest):
     system_prompt = f"""You are an expert on Indian government welfare schemes — both Central and State level.
 Your job is to match users with schemes they qualify for and explain them clearly in {lang_name}.
 Always respond with accurate, helpful information. 
-Respond ONLY in valid JSON — no markdown, no backticks, no explanation outside JSON."""
+Respond ONLY in valid JSON — no markdown, no backticks, no explanation outside JSON. CRITICAL: when writing non-English text (especially Malayalam, Tamil, or other Indic scripts), ensure all string values are properly JSON-escaped — escape any double quotes, backslashes, and newlines inside text fields. Double-check the JSON is syntactically valid before responding."""
 
     user_prompt = f"""User Profile:
 {profile}
