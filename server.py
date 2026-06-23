@@ -116,7 +116,7 @@ async def call_ai(prompt: str, system: str) -> str:
                     "Content-Type": "application/json"
                 },
                 json={
-                    "model": "anthropic/claude-haiku-4-5",
+                    "model": "anthropic/claude-haiku-3-5",
                     "messages": [
                         {"role": "system", "content": system},
                         {"role": "user", "content": prompt}
@@ -192,6 +192,14 @@ Instructions:
     try:
         raw = await call_ai(user_prompt, system_prompt)
         clean = raw.replace("```json", "").replace("```", "").strip()
+
+        # Aggressively extract JSON — find first { to last }
+        start = clean.find("{")
+        end = clean.rfind("}") + 1
+        if start == -1 or end == 0:
+            raise HTTPException(status_code=500, detail=f"No JSON in response: {clean[:200]}")
+        clean = clean[start:end]
+
         parsed = json.loads(clean)
         
         return SchemeResponse(
@@ -200,8 +208,8 @@ Instructions:
             source=source
         )
     
-    except json.JSONDecodeError:
-        raise HTTPException(status_code=500, detail="AI response parsing failed. Try again.")
+    except json.JSONDecodeError as e:
+        raise HTTPException(status_code=500, detail=f"JSON parse failed: {str(e)} | Raw: {clean[:300]}")
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
