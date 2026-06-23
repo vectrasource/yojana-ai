@@ -118,7 +118,7 @@ async def call_ai(prompt: str, system: str) -> str:
                     "Content-Type": "application/json"
                 },
                 json={
-                    "model": "anthropic/claude-3-haiku-20240307",
+                    "model": "anthropic/claude-3-haiku",
                     "messages": [
                         {"role": "system", "content": system},
                         {"role": "user", "content": prompt}
