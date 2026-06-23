@@ -123,7 +123,7 @@ async def call_ai(prompt: str, system: str) -> str:
                         {"role": "system", "content": system},
                         {"role": "user", "content": prompt}
                     ],
-                    "max_tokens": 1000
+                    "max_tokens": 3000
                 }
             )
             data = response.json()
