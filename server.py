@@ -104,8 +104,10 @@ async def call_ai(prompt: str, system: str) -> str:
                 }
             )
             data = response.json()
+            if "choices" not in data:
+                raise Exception(f"OpenRouter error: {data.get('error', data)}")
             return data["choices"][0]["message"]["content"]
-    
+
     else:
         # ── Claude via OpenRouter (before July 6) ──
         async with httpx.AsyncClient(timeout=30) as client:
@@ -125,6 +127,8 @@ async def call_ai(prompt: str, system: str) -> str:
                 }
             )
             data = response.json()
+            if "choices" not in data:
+                raise Exception(f"OpenRouter error: {data.get('error', data)}")
             return data["choices"][0]["message"]["content"]
 
 # ── Main endpoint ─────────────────────────────────────────────────────────────
