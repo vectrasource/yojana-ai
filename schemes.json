@@ -8,666 +8,2176 @@
     "benefits": "₹6,000 per year in 3 installments of ₹2,000 each directly to bank account",
     "application_process": "Register at pmkisan.gov.in or through Common Service Centre or local agriculture department",
     "url": "https://pmkisan.gov.in",
-    "tags": ["farmer", "agriculture", "income support", "central scheme"]
+    "tags": [
+      "farmer",
+      "agriculture",
+      "income support",
+      "central scheme"
+    ]
   },
   {
-    "scheme_name": "Pradhan Mantri Jan Dhan Yojana (PMJDY)",
-    "ministry": "Ministry of Finance",
+    "scheme_name": "Pradhan Mantri Awas Yojana (Urban)",
+    "ministry": "Ministry of Housing and Urban Affairs",
     "state": "Central",
-    "description": "Financial inclusion scheme providing basic banking services to unbanked citizens. Includes zero balance account, RuPay debit card, accidental insurance and overdraft facility.",
-    "eligibility": "Any Indian citizen above 10 years of age without a bank account",
-    "benefits": "Zero balance savings account, RuPay debit card, ₹2 lakh accidental insurance, ₹30,000 life cover, ₹10,000 overdraft facility",
-    "application_process": "Visit nearest bank branch with Aadhaar and one passport photo",
-    "url": "https://pmjdy.gov.in",
-    "tags": ["banking", "financial inclusion", "BPL", "all citizens"]
+    "description": "Housing for All mission providing financial assistance to urban poor for construction or purchase of houses. Subsidy up to ₹2.67 lakh on home loans.",
+    "eligibility": "EWS/LIG/MIG households without pucca house anywhere in India. Annual income up to ₹18 lakh.",
+    "benefits": "Interest subsidy of 3-6.5% on home loans up to ₹2.67 lakh",
+    "application_process": "Apply through bank, housing finance company, or Common Service Centre",
+    "url": "https://pmaymis.gov.in",
+    "tags": [
+      "housing",
+      "urban poor",
+      "home loan",
+      "central scheme"
+    ]
+  },
+  {
+    "scheme_name": "Pradhan Mantri Awas Yojana (Gramin)",
+    "ministry": "Ministry of Rural Development",
+    "state": "Central",
+    "description": "Financial assistance to rural BPL households for construction of pucca houses with basic amenities.",
+    "eligibility": "Houseless or kutcha house dwellers in rural areas from BPL category. Priority to SC/ST, minorities, disabled.",
+    "benefits": "₹1.20 lakh in plain areas, ₹1.30 lakh in hilly/difficult areas",
+    "application_process": "Apply through Gram Panchayat or Block Development Office",
+    "url": "https://pmayg.nic.in",
+    "tags": [
+      "housing",
+      "rural",
+      "BPL",
+      "central scheme"
+    ]
   },
   {
     "scheme_name": "Ayushman Bharat PM-JAY",
     "ministry": "Ministry of Health and Family Welfare",
     "state": "Central",
-    "description": "World's largest health insurance scheme providing ₹5 lakh health coverage per family per year for secondary and tertiary hospitalization. Covers 1500+ medical procedures.",
-    "eligibility": "Families identified in SECC 2011 data. BPL families, SC/ST households, rural landless households, households with no adult member, disabled member households.",
-    "benefits": "₹5 lakh health insurance per family per year, cashless treatment at empanelled hospitals",
-    "application_process": "Check eligibility at pmjay.gov.in or visit nearest Common Service Centre with Aadhaar",
+    "description": "World's largest health insurance scheme providing coverage of ₹5 lakh per family per year for secondary and tertiary hospitalization.",
+    "eligibility": "Bottom 40% of Indian population as per SECC 2011 data. BPL families, SC/ST households, landless laborers.",
+    "benefits": "Health insurance coverage up to ₹5 lakh per family per year",
+    "application_process": "Check eligibility at pmjay.gov.in or nearest empanelled hospital",
     "url": "https://pmjay.gov.in",
-    "tags": ["health", "insurance", "BPL", "SC/ST", "family"]
+    "tags": [
+      "health",
+      "insurance",
+      "BPL",
+      "central scheme",
+      "hospital"
+    ]
   },
   {
-    "scheme_name": "Pradhan Mantri Mudra Yojana (PMMY)",
+    "scheme_name": "PM Mudra Yojana",
     "ministry": "Ministry of Finance",
     "state": "Central",
-    "description": "Provides loans up to ₹10 lakh to non-corporate, non-farm small/micro enterprises. Three categories: Shishu (up to ₹50,000), Kishor (₹50,000 to ₹5 lakh), Tarun (₹5 lakh to ₹10 lakh).",
-    "eligibility": "Any Indian citizen with a business plan for non-farm income generating activities. Small businesses, shopkeepers, artisans, vendors.",
-    "benefits": "Loans up to ₹10 lakh without collateral. Shishu: up to ₹50,000. Kishor: ₹50,000-₹5 lakh. Tarun: ₹5-10 lakh.",
-    "application_process": "Apply at nearest bank, MFI or NBFC with business plan and KYC documents",
-    "url": "https://mudra.org.in",
-    "tags": ["small business", "loan", "entrepreneur", "self-employed", "startup"]
-  },
-  {
-    "scheme_name": "PM Awas Yojana - Gramin (PMAY-G)",
-    "ministry": "Ministry of Rural Development",
-    "state": "Central",
-    "description": "Housing scheme for rural BPL families to construct pucca houses. Provides financial assistance for construction of basic houses with toilet, LPG connection and electricity.",
-    "eligibility": "Homeless rural families and those living in zero, one or two room kutcha houses. Priority to SC/ST, minorities, disabled, women.",
-    "benefits": "₹1.20 lakh in plain areas, ₹1.30 lakh in hilly/difficult areas for house construction. Additional ₹12,000 for toilet under Swachh Bharat.",
-    "application_process": "Apply through Gram Panchayat or Block Development Officer. Registration at pmayg.nic.in",
-    "url": "https://pmayg.nic.in",
-    "tags": ["housing", "rural", "BPL", "SC/ST", "construction"]
-  },
-  {
-    "scheme_name": "PM Awas Yojana - Urban (PMAY-U)",
-    "ministry": "Ministry of Housing and Urban Affairs",
-    "state": "Central",
-    "description": "Housing for All mission for urban areas providing interest subsidy on home loans for EWS, LIG and MIG categories. Credit Linked Subsidy Scheme (CLSS) component.",
-    "eligibility": "EWS (income up to ₹3 lakh), LIG (₹3-6 lakh), MIG-I (₹6-12 lakh), MIG-II (₹12-18 lakh). Beneficiary should not own a pucca house.",
-    "benefits": "Interest subsidy of 6.5% for EWS/LIG on loans up to ₹6 lakh. MIG-I: 4% on ₹9 lakh. MIG-II: 3% on ₹12 lakh.",
-    "application_process": "Apply at pmaymis.gov.in or through empanelled banks/HFCs",
-    "url": "https://pmaymis.gov.in",
-    "tags": ["housing", "urban", "home loan", "EWS", "LIG", "MIG"]
-  },
-  {
-    "scheme_name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
-    "ministry": "Ministry of Finance",
-    "state": "Central",
-    "description": "Life insurance scheme offering ₹2 lakh life cover at extremely low premium of ₹330 per year. Renewable annually. Covers death due to any cause.",
-    "eligibility": "Age group 18-50 years with a savings bank account. Auto-debit of premium from account.",
-    "benefits": "₹2 lakh life insurance cover for just ₹330 per year (less than ₹1 per day)",
-    "application_process": "Enroll through your bank account. Submit consent-cum-declaration form at bank branch.",
-    "url": "https://jansuraksha.gov.in",
-    "tags": ["insurance", "life insurance", "low income", "all citizens"]
-  },
-  {
-    "scheme_name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
-    "ministry": "Ministry of Finance",
-    "state": "Central",
-    "description": "Accidental insurance scheme providing ₹2 lakh cover for accidental death/permanent disability at just ₹20 per year. Renewed annually.",
-    "eligibility": "Age group 18-70 years with a savings bank account",
-    "benefits": "₹2 lakh for accidental death or permanent total disability. ₹1 lakh for partial permanent disability. Premium only ₹20/year.",
-    "application_process": "Enroll through bank account. Submit consent form at bank branch or through net banking.",
-    "url": "https://jansuraksha.gov.in",
-    "tags": ["insurance", "accident", "low income", "all citizens"]
-  },
-  {
-    "scheme_name": "Atal Pension Yojana (APY)",
-    "ministry": "Ministry of Finance",
-    "state": "Central",
-    "description": "Pension scheme for unorganized sector workers guaranteeing minimum monthly pension of ₹1,000 to ₹5,000 after age 60. Government co-contributes 50% of total contribution.",
-    "eligibility": "Indian citizens aged 18-40 years with a savings bank account. Not covered under any statutory social security scheme.",
-    "benefits": "Guaranteed monthly pension of ₹1,000/₹2,000/₹3,000/₹4,000/₹5,000 after age 60. Government contributes 50% up to ₹1,000/year for 5 years.",
-    "application_process": "Apply at bank branch or post office. Available through net banking and mobile banking.",
-    "url": "https://npscra.nsdl.co.in/scheme-details.php",
-    "tags": ["pension", "retirement", "unorganized sector", "savings"]
-  },
-  {
-    "scheme_name": "National Scholarship Portal (NSP)",
-    "ministry": "Ministry of Education",
-    "state": "Central",
-    "description": "One-stop platform for various central government scholarships for students from pre-matric to post-doctoral level. Covers scholarships for minorities, SC/ST, OBC, disabled students.",
-    "eligibility": "Students at various educational levels. Specific eligibility varies by scholarship. Generally for students with family income below ₹2.5 lakh to ₹8 lakh.",
-    "benefits": "Scholarships ranging from ₹1,000/month to ₹20,000/month depending on course and category",
-    "application_process": "Register at scholarships.gov.in. Apply online with academic certificates, income certificate, bank account details.",
-    "url": "https://scholarships.gov.in",
-    "tags": ["student", "scholarship", "education", "SC/ST", "OBC", "minority"]
-  },
-  {
-    "scheme_name": "PM SVANidhi (Street Vendor AtmaNirbhar Nidhi)",
-    "ministry": "Ministry of Housing and Urban Affairs",
-    "state": "Central",
-    "description": "Micro-credit scheme for street vendors to resume livelihoods affected by COVID-19. Provides collateral-free working capital loans with interest subsidy.",
-    "eligibility": "Urban street vendors with Certificate of Vending or Letter of Recommendation from Urban Local Body",
-    "benefits": "Initial loan of ₹10,000, enhanced to ₹20,000 then ₹50,000 on timely repayment. 7% interest subsidy.",
-    "application_process": "Apply at pmsvanidhi.mohua.gov.in or through nearest bank/MFI/NBFC",
-    "url": "https://pmsvanidhi.mohua.gov.in",
-    "tags": ["street vendor", "small business", "urban", "loan", "self-employed"]
+    "description": "Provides loans up to ₹10 lakh to non-corporate, non-farm small/micro enterprises. Three categories: Shishu (up to ₹50,000), Kishor (₹50,001-5 lakh), Tarun (₹5-10 lakh).",
+    "eligibility": "Any Indian citizen with business plan for non-farm income generating activity. No collateral required for Shishu loans.",
+    "benefits": "Collateral-free loans up to ₹10 lakh at low interest rates",
+    "application_process": "Apply at any bank, MFI, or NBFC. Online at udyamimitra.in",
+    "url": "https://www.mudra.org.in",
+    "tags": [
+      "small business",
+      "entrepreneur",
+      "loan",
+      "self employment",
+      "central scheme"
+    ]
   },
   {
     "scheme_name": "Sukanya Samriddhi Yojana",
     "ministry": "Ministry of Finance",
     "state": "Central",
-    "description": "Small savings scheme for girl child to meet future education and marriage expenses. High interest rate scheme with tax benefits under Section 80C.",
-    "eligibility": "Girl child below 10 years of age. Account can be opened by parent or legal guardian. Maximum 2 accounts per family.",
-    "benefits": "High interest rate (currently 8.2% per annum). Tax deduction up to ₹1.5 lakh under 80C. Maturity after 21 years from account opening.",
-    "application_process": "Open account at post office or authorized bank branch with girl child birth certificate and guardian ID.",
-    "url": "https://www.indiapost.gov.in/Financial/pages/content/Sukanya-samriddhi-account.aspx",
-    "tags": ["girl child", "savings", "education", "women", "family"]
+    "description": "Small savings scheme for girl child providing high interest rate of 8.2% per annum. Tax benefits under Section 80C.",
+    "eligibility": "Girl child below age 10. Maximum 2 accounts per family (3 in case of twins/triplets).",
+    "benefits": "8.2% annual interest, tax exemption under 80C, maturity after 21 years",
+    "application_process": "Open account at post office or authorized bank with birth certificate",
+    "url": "https://www.india.gov.in/sukanya-samriddhi-yojna",
+    "tags": [
+      "girl child",
+      "savings",
+      "education",
+      "women",
+      "central scheme"
+    ]
   },
   {
-    "scheme_name": "Beti Bachao Beti Padhao",
-    "ministry": "Ministry of Women and Child Development",
-    "state": "Central",
-    "description": "Scheme to address declining child sex ratio and promote welfare of girl child. Focuses on survival, protection, education and empowerment of girls.",
-    "eligibility": "Girl children and their families. Special focus on districts with low child sex ratio.",
-    "benefits": "Financial incentives for girl child education, conditional cash transfers, community mobilization support",
-    "application_process": "Contact local Anganwadi center, health department or district administration",
-    "url": "https://wcd.nic.in/bbbp-schemes",
-    "tags": ["girl child", "women", "education", "family"]
-  },
-  {
-    "scheme_name": "MGNREGS (Mahatma Gandhi National Rural Employment Guarantee)",
-    "ministry": "Ministry of Rural Development",
-    "state": "Central",
-    "description": "Guarantees 100 days of wage employment per financial year to every rural household willing to do unskilled manual work. Provides livelihood security to rural poor.",
-    "eligibility": "Any adult member of rural household willing to do unskilled manual work. Must register at local Gram Panchayat.",
-    "benefits": "100 days of guaranteed wage employment. Current wage rates vary by state (₹200-350/day). Unemployment allowance if work not provided within 15 days.",
-    "application_process": "Register at Gram Panchayat with Aadhaar and bank account. Job card issued within 15 days.",
-    "url": "https://nrega.nic.in",
-    "tags": ["rural", "employment", "unskilled", "BPL", "labor"]
-  },
-  {
-    "scheme_name": "PM Garib Kalyan Anna Yojana (PMGKAY)",
-    "ministry": "Ministry of Consumer Affairs, Food and Public Distribution",
-    "state": "Central",
-    "description": "Free foodgrain scheme providing 5 kg of rice/wheat per person per month free of cost to beneficiaries under National Food Security Act.",
-    "eligibility": "NFSA beneficiaries — Antyodaya Anna Yojana (AAY) and Priority Households (PHH) with ration card",
-    "benefits": "5 kg free foodgrain (rice/wheat) per person per month free of cost",
-    "application_process": "Access through existing ration card at Fair Price Shop. If no ration card, apply at district food office.",
-    "url": "https://dfpd.gov.in",
-    "tags": ["food", "ration", "BPL", "Antyodaya", "free rice"]
-  },
-  {
-    "scheme_name": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+    "scheme_name": "PM Ujjwala Yojana",
     "ministry": "Ministry of Petroleum and Natural Gas",
     "state": "Central",
-    "description": "Provides free LPG connections to women from BPL households. Aims to replace unclean cooking fuels with clean LPG. Deposit-free connections with first refill subsidized.",
-    "eligibility": "Women above 18 years from BPL households. SECC-2011 or AAY/PMAY beneficiaries. SC/ST households.",
-    "benefits": "Free LPG connection (cylinder + regulator + hose), deposit waiver, first refill subsidized. Up to 12 subsidized refills per year.",
-    "application_process": "Apply at nearest LPG distributor with BPL certificate/Aadhaar/ration card",
-    "url": "https://pmuy.gov.in",
-    "tags": ["women", "BPL", "cooking gas", "LPG", "SC/ST", "rural"]
+    "description": "Free LPG connections to BPL households to replace traditional cooking fuels and reduce health hazards from indoor air pollution.",
+    "eligibility": "Women from BPL households above 18 years without existing LPG connection.",
+    "benefits": "Free LPG connection with first refill and stove",
+    "application_process": "Apply at nearest LPG distributor with BPL ration card and Aadhaar",
+    "url": "https://www.pmujjwalayojana.com",
+    "tags": [
+      "BPL",
+      "women",
+      "cooking gas",
+      "LPG",
+      "central scheme"
+    ]
+  },
+  {
+    "scheme_name": "National Social Assistance Programme",
+    "ministry": "Ministry of Rural Development",
+    "state": "Central",
+    "description": "Social security for BPL elderly, widows, and disabled persons. Includes Indira Gandhi National Old Age Pension, Widow Pension, and Disability Pension.",
+    "eligibility": "BPL elderly (60+), widows (40-79 years), severely disabled persons.",
+    "benefits": "₹200-500 per month pension",
+    "application_process": "Apply at Block Development Office or Gram Panchayat",
+    "url": "https://nsap.nic.in",
+    "tags": [
+      "pension",
+      "elderly",
+      "widow",
+      "disabled",
+      "BPL",
+      "central scheme"
+    ]
+  },
+  {
+    "scheme_name": "PM Garib Kalyan Anna Yojana",
+    "ministry": "Ministry of Consumer Affairs",
+    "state": "Central",
+    "description": "Free food grain scheme providing 5 kg of rice/wheat per person per month to National Food Security Act beneficiaries.",
+    "eligibility": "All NFSA beneficiaries including Antyodaya Anna Yojana and Priority Household cardholders.",
+    "benefits": "5 kg free food grain per person per month",
+    "application_process": "Automatically covered if you have NFSA ration card",
+    "url": "https://dfpd.gov.in",
+    "tags": [
+      "food",
+      "ration",
+      "BPL",
+      "central scheme"
+    ]
+  },
+  {
+    "scheme_name": "Atal Pension Yojana",
+    "ministry": "Ministry of Finance",
+    "state": "Central",
+    "description": "Pension scheme for unorganized sector workers guaranteeing minimum pension of ₹1,000-5,000 per month after age 60.",
+    "eligibility": "Indian citizens aged 18-40 years with bank account. Not covered under any statutory social security scheme.",
+    "benefits": "Guaranteed pension ₹1,000-5,000/month after age 60",
+    "application_process": "Enroll through bank or post office savings account",
+    "url": "https://npscra.nsdl.co.in/scheme-details.php",
+    "tags": [
+      "pension",
+      "unorganized sector",
+      "retirement",
+      "central scheme"
+    ]
+  },
+  {
+    "scheme_name": "PM Suraksha Bima Yojana",
+    "ministry": "Ministry of Finance",
+    "state": "Central",
+    "description": "Accidental death and disability insurance cover of ₹2 lakh at annual premium of just ₹20.",
+    "eligibility": "Bank account holders aged 18-70 years.",
+    "benefits": "₹2 lakh accidental death/total disability cover, ₹1 lakh partial disability",
+    "application_process": "Enroll through bank account with auto-debit of ₹20 annually",
+    "url": "https://jansuraksha.gov.in",
+    "tags": [
+      "insurance",
+      "accident",
+      "central scheme",
+      "low premium"
+    ]
+  },
+  {
+    "scheme_name": "PM Jeevan Jyoti Bima Yojana",
+    "ministry": "Ministry of Finance",
+    "state": "Central",
+    "description": "Life insurance cover of ₹2 lakh at annual premium of ₹436 for bank account holders.",
+    "eligibility": "Bank account holders aged 18-50 years.",
+    "benefits": "₹2 lakh life insurance cover",
+    "application_process": "Enroll through bank account with auto-debit",
+    "url": "https://jansuraksha.gov.in",
+    "tags": [
+      "life insurance",
+      "central scheme",
+      "bank"
+    ]
   },
   {
     "scheme_name": "Stand Up India",
     "ministry": "Ministry of Finance",
     "state": "Central",
-    "description": "Bank loans between ₹10 lakh to ₹1 crore for SC/ST and women entrepreneurs to set up greenfield enterprises in manufacturing, services or trading sector.",
-    "eligibility": "SC/ST and women entrepreneurs above 18 years setting up greenfield enterprise. At least one SC/ST and one woman borrower per bank branch.",
-    "benefits": "Bank loan ₹10 lakh to ₹1 crore (75% of project cost). Repayment period up to 7 years. Working capital through overdraft/CC.",
-    "application_process": "Apply at standupmitra.in or nearest bank branch with project report",
-    "url": "https://standupmitra.in",
-    "tags": ["SC/ST", "women", "entrepreneur", "business loan", "manufacturing"]
+    "description": "Facilitates bank loans between ₹10 lakh to ₹1 crore to SC/ST and women entrepreneurs for greenfield enterprises.",
+    "eligibility": "SC/ST and women entrepreneurs above 18 years for greenfield projects in manufacturing, services, or trading.",
+    "benefits": "Loans ₹10 lakh to ₹1 crore at concessional rates",
+    "application_process": "Apply at bank branch or standupmitra.in",
+    "url": "https://www.standupmitra.in",
+    "tags": [
+      "entrepreneur",
+      "SC/ST",
+      "women",
+      "loan",
+      "business",
+      "central scheme"
+    ]
   },
   {
-    "scheme_name": "National Social Assistance Programme (NSAP)",
-    "ministry": "Ministry of Rural Development",
-    "state": "Central",
-    "description": "Social security for BPL elderly, widows and disabled persons. Includes Indira Gandhi National Old Age Pension, Widow Pension, and Disability Pension schemes.",
-    "eligibility": "BPL households. Old age pension: 60+ years. Widow pension: 40-79 years widows. Disability pension: severely disabled persons.",
-    "benefits": "Monthly pension: ₹200-500 for elderly, ₹300 for widows, ₹300 for disabled. States add their own contribution.",
-    "application_process": "Apply at Gram Panchayat or Block Development Officer with age/BPL/disability certificate",
-    "url": "https://nsap.nic.in",
-    "tags": ["senior citizen", "widow", "disabled", "BPL", "pension"]
-  },
-  {
-    "scheme_name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
-    "ministry": "Ministry of Skill Development and Entrepreneurship",
-    "state": "Central",
-    "description": "Skill certification scheme enabling youth to take up industry-relevant skill training. Provides short duration skill training with monetary reward on certification.",
-    "eligibility": "Indian nationals, school/college dropout or unemployed youth. No minimum education qualification for most courses.",
-    "benefits": "Free skill training, ₹8,000 average monetary reward post certification, placement assistance, recognition of prior learning",
-    "application_process": "Register at pmkvyofficial.org or visit nearest PMKVY Training Centre",
-    "url": "https://pmkvyofficial.org",
-    "tags": ["youth", "skill training", "unemployed", "student", "job"]
-  },
-  {
-    "scheme_name": "Startup India",
-    "ministry": "Department for Promotion of Industry and Internal Trade (DPIIT)",
-    "state": "Central",
-    "description": "Flagship initiative to build strong startup ecosystem in India. Provides tax benefits, self-certification compliance, fast-track patent examination and funding support.",
-    "eligibility": "Entity incorporated as private limited company, partnership or LLP. Less than 10 years old. Annual turnover below ₹100 crore. Working on innovative product/service.",
-    "benefits": "3-year income tax exemption, 80% rebate on patent fees, self-certification for 9 labor laws, faster IP registration, INDEx fund access",
-    "application_process": "Register at startupindia.gov.in with incorporation certificate and business description",
-    "url": "https://startupindia.gov.in",
-    "tags": ["startup", "entrepreneur", "business", "innovation", "tax benefit"]
-  },
-  {
-    "scheme_name": "e-SHRAM Portal",
-    "ministry": "Ministry of Labour and Employment",
-    "state": "Central",
-    "description": "National database of unorganized workers. Registration provides UAN number, accidental insurance under PMSBY, and helps access social security benefits.",
-    "eligibility": "Unorganized sector workers aged 16-59 not covered under EPFO/ESIC/NPS. Includes farmers, construction workers, domestic workers, street vendors.",
-    "benefits": "₹2 lakh accidental death/disability insurance, UAN number for portability of benefits, priority for government welfare schemes",
-    "application_process": "Register at eshram.gov.in or Common Service Centre with Aadhaar and mobile number",
-    "url": "https://eshram.gov.in",
-    "tags": ["unorganized worker", "labor", "farmer", "construction", "insurance"]
-  },
-  {
-    "scheme_name": "PM Vishwakarma Yojana",
-    "ministry": "Ministry of Micro, Small and Medium Enterprises",
-    "state": "Central",
-    "description": "Holistic support to artisans and craftspeople (Vishwakarmas) working with hands and tools in 18 trades. Provides skill training, toolkits, loans and market linkage.",
-    "eligibility": "18 traditional trades including blacksmith, goldsmith, potter, carpenter, tailor, cobbler, barber, washerman, mason, weaver, etc.",
-    "benefits": "₹15,000 toolkit incentive, skill training with ₹500/day stipend, collateral-free loan ₹1 lakh (1st tranche) and ₹2 lakh (2nd tranche) at 5% interest",
-    "application_process": "Register at pmvishwakarma.gov.in through Common Service Centre with Aadhaar",
-    "url": "https://pmvishwakarma.gov.in",
-    "tags": ["artisan", "craftsman", "self-employed", "skill", "loan", "traditional trade"]
-  },
-  {
-    "scheme_name": "Kisan Credit Card (KCC)",
-    "ministry": "Ministry of Agriculture & Farmers Welfare",
-    "state": "Central",
-    "description": "Provides farmers with affordable credit for agricultural needs. Covers crop cultivation, post-harvest expenses, farm maintenance, allied activities and consumption needs.",
-    "eligibility": "All farmers — individual/joint borrowers, tenant farmers, sharecroppers, oral lessees. Also fishermen and animal husbandry farmers.",
-    "benefits": "Revolving credit up to ₹3 lakh at 4% interest (with 2% government interest subvention + 3% incentive for timely repayment). Higher limits based on landholding.",
-    "application_process": "Apply at nearest bank branch, cooperative bank or regional rural bank with land documents",
-    "url": "https://www.nabard.org/content1.aspx?id=593",
-    "tags": ["farmer", "agriculture", "credit", "loan", "crop"]
-  },
-  {
-    "scheme_name": "Soil Health Card Scheme",
-    "ministry": "Ministry of Agriculture & Farmers Welfare",
-    "state": "Central",
-    "description": "Provides farmers with soil health cards containing crop-wise recommendations for nutrients and fertilizers for individual farms to improve productivity.",
-    "eligibility": "All farmers with agricultural land",
-    "benefits": "Free soil testing, soil health card with recommendations, crop-wise nutrient recommendations, guidance on fertilizer use to reduce costs",
-    "application_process": "Apply at nearest agriculture department office or Krishi Vigyan Kendra",
-    "url": "https://soilhealth.dac.gov.in",
-    "tags": ["farmer", "agriculture", "soil", "fertilizer", "crop yield"]
-  },
-  {
-    "scheme_name": "PM Fasal Bima Yojana (PMFBY)",
-    "ministry": "Ministry of Agriculture & Farmers Welfare",
-    "state": "Central",
-    "description": "Crop insurance scheme providing financial support to farmers suffering crop loss due to natural calamities, pests and diseases. Very low premium for farmers.",
-    "eligibility": "All farmers including sharecroppers and tenant farmers growing notified crops. Mandatory for loanee farmers, voluntary for others.",
-    "benefits": "Full insured sum without any upper limit. Premium: 2% for Kharif, 1.5% for Rabi, 5% for horticultural crops. Government pays remaining premium.",
-    "application_process": "Apply at nearest bank, CSC, insurance company or through crop insurance app. Enroll before cutoff date for each season.",
-    "url": "https://pmfby.gov.in",
-    "tags": ["farmer", "crop insurance", "agriculture", "natural disaster", "crop loss"]
-  },
-  {
-    "scheme_name": "National Apprenticeship Promotion Scheme (NAPS)",
-    "ministry": "Ministry of Skill Development and Entrepreneurship",
-    "state": "Central",
-    "description": "Promotes apprenticeship training by sharing 25% of stipend cost with employers. Helps youth get on-the-job training and industry experience with stipend.",
-    "eligibility": "Youth aged 14+ who have passed Class 5 or above. Different categories based on qualification level.",
-    "benefits": "Monthly stipend (government shares 25% up to ₹1,500/month), NAPS certification, industry experience, pathway to employment",
-    "application_process": "Register at apprenticeshipindia.org. Match with employers in your trade.",
-    "url": "https://apprenticeshipindia.org",
-    "tags": ["youth", "apprenticeship", "skill", "employment", "training"]
-  },
-  {
-    "scheme_name": "Digital India Land Records Modernisation Programme",
-    "ministry": "Ministry of Rural Development",
-    "state": "Central",
-    "description": "Digitization of land records to make them accessible online. Enables farmers and landowners to get certified land record copies quickly without visiting government offices.",
-    "eligibility": "All landowners and farmers",
-    "benefits": "Online access to land records, digital land record certificates, reduced harassment at government offices",
-    "application_process": "Access through state land records portal (e.g., bhoomi.karnataka.gov.in, bhulekh.up.nic.in, e-dharti for Delhi)",
-    "url": "https://dolr.gov.in",
-    "tags": ["farmer", "land", "rural", "digital", "records"]
-  },
-  {
-    "scheme_name": "PM Matru Vandana Yojana (PMMVY)",
-    "ministry": "Ministry of Women and Child Development",
-    "state": "Central",
-    "description": "Maternity benefit scheme providing cash incentive to pregnant and lactating mothers for first live birth to compensate for wage loss and improve health and nutrition.",
-    "eligibility": "All pregnant and lactating women for first living child. Not applicable to those already receiving maternity benefits under any law.",
-    "benefits": "₹5,000 in three installments: ₹1,000 on registration, ₹2,000 after first ANC, ₹2,000 after delivery and first immunization",
-    "application_process": "Register at nearest Anganwadi centre or health facility with Aadhaar, bank account and MCP card",
-    "url": "https://pmmvy.wcd.gov.in",
-    "tags": ["women", "pregnant", "maternity", "mother", "nutrition"]
-  },
-  {
-    "scheme_name": "National Rural Livelihood Mission (NRLM - DAY)",
-    "ministry": "Ministry of Rural Development",
-    "state": "Central",
-    "description": "Poverty alleviation program mobilizing rural poor into self-help groups (SHGs). Provides skill training, financial inclusion, capacity building and interest subvention on loans.",
-    "eligibility": "Rural BPL households, especially women. Focus on SC/ST, disabled, minorities, migrant workers.",
-    "benefits": "SHG formation, revolving fund ₹10,000-15,000, community investment fund, interest subvention (7% for women SHGs), skill training and placement",
-    "application_process": "Contact nearest Gram Panchayat or Block Mission Management Unit to join local SHG",
-    "url": "https://aajeevika.gov.in",
-    "tags": ["women", "SHG", "rural", "BPL", "self-help group", "livelihood"]
-  },
-  {
-    "scheme_name": "PM Scholarship Scheme for Central Armed Police Forces",
-    "ministry": "Ministry of Home Affairs",
-    "state": "Central",
-    "description": "Scholarships for wards and widows of Central Armed Police Force personnel and Railway Protection Force who died in action or are disabled.",
-    "eligibility": "Wards and widows of CAPF/RPF personnel. Students in first year of degree/diploma courses. Min 60% in qualifying exam.",
-    "benefits": "₹2,500/month for boys, ₹3,000/month for girls pursuing professional degree courses",
-    "application_process": "Apply at scholarships.gov.in during application window (August-September typically)",
-    "url": "https://scholarships.gov.in",
-    "tags": ["student", "scholarship", "defense", "widow", "education"]
-  },
-  {
-    "scheme_name": "Aam Aadmi Bima Yojana (AABY)",
-    "ministry": "Ministry of Finance",
-    "state": "Central",
-    "description": "Social security scheme for unorganized sector workers providing life and disability cover. Merged into PMJJBY but state-level versions continue.",
-    "eligibility": "Unorganized sector workers aged 18-59 years, rural landless households, 48 identified occupational groups",
-    "benefits": "₹30,000 natural death, ₹75,000 accidental death/permanent disability, ₹37,500 partial disability, scholarship for 2 children studying Class 9-12",
-    "application_process": "Enroll through nodal agency or CSC. Premium ₹200/year (shared by state and central government).",
-    "url": "https://jansuraksha.gov.in",
-    "tags": ["insurance", "unorganized sector", "rural", "BPL", "labor"]
-  },
-  {
-    "scheme_name": "Rashtriya Swasthya Bima Yojana (RSBY)",
-    "ministry": "Ministry of Labour and Employment",
-    "state": "Central",
-    "description": "Health insurance for BPL workers in unorganized sector. Smart card based cashless health insurance for hospitalization at empanelled hospitals.",
-    "eligibility": "BPL households, unorganized workers including construction workers, MGNREGA workers, domestic workers, rag pickers",
-    "benefits": "₹30,000 health cover per family per year, cashless hospitalization, ₹100 transport allowance per hospitalization",
-    "application_process": "Enroll during annual enrollment drive through district administration",
-    "url": "https://www.india.gov.in/spotlight/rashtriya-swasthya-bima-yojana",
-    "tags": ["health insurance", "BPL", "unorganized sector", "hospitalization", "labor"]
-  },
-  {
-    "scheme_name": "Annapurna Scheme",
-    "ministry": "Ministry of Consumer Affairs",
-    "state": "Central",
-    "description": "Provides free food grains (10 kg per month) to senior citizens aged 65+ who are eligible for old age pension but not receiving it.",
-    "eligibility": "Senior citizens aged 65+ who are eligible for old age pension under NSAP but not receiving pension",
-    "benefits": "10 kg free foodgrains per month",
-    "application_process": "Apply through state food department or district collector office",
-    "url": "https://dfpd.gov.in",
-    "tags": ["senior citizen", "elderly", "food", "free", "65+"]
-  },
-  {
-    "scheme_name": "PMEGP (Prime Minister Employment Generation Programme)",
-    "ministry": "Ministry of MSME",
-    "state": "Central",
-    "description": "Credit-linked subsidy scheme for setting up micro-enterprises in non-farm sector. Provides margin money subsidy to generate employment in rural and urban areas.",
-    "eligibility": "Any individual above 18 years. Minimum Class 8 pass for projects above ₹10 lakh. SHGs, charitable trusts, cooperative societies also eligible.",
-    "benefits": "Subsidy 15-35% of project cost (higher for rural/SC/ST/women/ex-servicemen). Max project ₹50 lakh manufacturing, ₹20 lakh service sector.",
-    "application_process": "Apply at kviconline.gov.in or nearest KVIC/KVIB/DIC office with project report",
-    "url": "https://kviconline.gov.in/pmegpeportal",
-    "tags": ["entrepreneur", "small business", "manufacturing", "employment", "self-employed", "SC/ST"]
-  },
-  {
-    "scheme_name": "National Pension System (NPS) for Unorganized Sector",
-    "ministry": "Ministry of Finance",
-    "state": "Central",
-    "description": "Voluntary retirement savings scheme open to all citizens. Flexible contribution, tax benefits, and portable across employers and locations.",
-    "eligibility": "All Indian citizens aged 18-70. No minimum income requirement.",
-    "benefits": "Tax deduction up to ₹1.5 lakh under 80C + additional ₹50,000 under 80CCD(1B). Market-linked returns. Partial withdrawal allowed.",
-    "application_process": "Open NPS account at nearest Point of Presence (POP) - banks, post offices. Online at enps.nsdl.com",
-    "url": "https://npscra.nsdl.co.in",
-    "tags": ["pension", "retirement", "savings", "tax benefit", "unorganized sector"]
-  },
-  {
-    "scheme_name": "Sarva Shiksha Abhiyan / PM POSHAN (Mid Day Meal)",
+    "scheme_name": "National Scholarship Portal",
     "ministry": "Ministry of Education",
     "state": "Central",
-    "description": "Free nutritious cooked meal to school children in government and government-aided schools from Class 1-8 to improve enrollment, attendance and nutrition.",
-    "eligibility": "Children studying in Class 1-8 in government and government-aided schools",
-    "benefits": "Free cooked mid-day meal every school day. Nutritional standards: 450-700 calories and 12-20g protein per meal.",
-    "application_process": "Automatic for enrolled students in government schools. Enroll child at nearest government school.",
-    "url": "https://pmposhan.education.gov.in",
-    "tags": ["student", "school", "nutrition", "free meal", "education", "children"]
+    "description": "Central platform for multiple scholarships for pre-matric, post-matric and merit-cum-means students from minority, SC/ST, OBC communities.",
+    "eligibility": "Students from SC/ST/OBC/minority communities with family income below specified limits.",
+    "benefits": "Scholarships ranging from ₹1,000 to ₹20,000 per year",
+    "application_process": "Apply at scholarships.gov.in",
+    "url": "https://scholarships.gov.in",
+    "tags": [
+      "student",
+      "scholarship",
+      "education",
+      "SC/ST",
+      "OBC",
+      "minority",
+      "central scheme"
+    ]
   },
   {
-    "scheme_name": "Swachh Bharat Mission - Toilet Construction",
-    "ministry": "Ministry of Jal Shakti",
+    "scheme_name": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana",
+    "ministry": "Ministry of Rural Development",
     "state": "Central",
-    "description": "Provides financial incentive for construction of household toilets in rural areas to achieve open defecation free status.",
-    "eligibility": "Rural households without toilet. Priority to SC/ST, small and marginal farmers, landless laborers, women, differently-abled, AAY families.",
-    "benefits": "₹12,000 incentive for toilet construction paid in two installments after construction",
-    "application_process": "Apply at Gram Panchayat or Block Development Office. Or apply through swachhbharatmission.gov.in",
-    "url": "https://swachhbharatmission.gov.in",
-    "tags": ["rural", "sanitation", "toilet", "BPL", "SC/ST"]
+    "description": "Skill development and placement program for rural youth aged 15-35 years to provide wage employment.",
+    "eligibility": "Rural youth aged 15-35 years (up to 45 for SC/ST/PWD/women). No minimum education required.",
+    "benefits": "Free skill training with placement assistance and post-placement support",
+    "application_process": "Register at ddugky.gov.in or nearest project implementing agency",
+    "url": "https://ddugky.gov.in",
+    "tags": [
+      "skill development",
+      "rural youth",
+      "employment",
+      "training",
+      "central scheme"
+    ]
   },
   {
-    "scheme_name": "Jal Jeevan Mission - Har Ghar Jal",
-    "ministry": "Ministry of Jal Shakti",
+    "scheme_name": "Pradhan Mantri Kaushal Vikas Yojana",
+    "ministry": "Ministry of Skill Development",
     "state": "Central",
-    "description": "Provides tap water connection to every rural household. Functional household tap connections with adequate supply of safe drinking water.",
-    "eligibility": "All rural households without functional tap water connection",
-    "benefits": "Free tap water connection at home, assured supply of 55 litres per person per day",
-    "application_process": "No application needed. Connect through Gram Panchayat. Register complaint if connection not provided at jalshakti-ddws.gov.in",
-    "url": "https://jaljeevanmission.gov.in",
-    "tags": ["rural", "water", "household", "drinking water", "village"]
+    "description": "Skill certification scheme enabling Indian youth to take up industry-relevant skill training and earn recognition.",
+    "eligibility": "Indian nationals who are school/college dropouts or unemployed.",
+    "benefits": "Free skill training, certification, and monetary reward up to ₹8,000",
+    "application_process": "Register at pmkvyofficial.org or nearest training centre",
+    "url": "https://www.pmkvyofficial.org",
+    "tags": [
+      "skill",
+      "youth",
+      "employment",
+      "training",
+      "certification",
+      "central scheme"
+    ]
   },
   {
-    "scheme_name": "PM Suraksha Bandhan (Assistance to Disabled)",
-    "ministry": "Ministry of Social Justice and Empowerment",
+    "scheme_name": "Mahatma Gandhi NREGA",
+    "ministry": "Ministry of Rural Development",
     "state": "Central",
-    "description": "Provides assistive devices and equipment to disabled persons to improve their mobility, communication and daily living activities.",
-    "eligibility": "Disabled persons from low income families. Income below ₹2 lakh/year. Disability certificate required.",
-    "benefits": "Free assistive aids and appliances including wheelchairs, crutches, hearing aids, artificial limbs, DAISY players for visually impaired",
-    "application_process": "Apply through district social welfare officer or ALIMCO distribution camps",
-    "url": "https://disabilityaffairs.gov.in",
-    "tags": ["disabled", "differently abled", "assistive device", "BPL", "social welfare"]
+    "description": "Guarantees 100 days of wage employment per year to rural households whose adult members volunteer to do unskilled manual work.",
+    "eligibility": "Adult members of rural households willing to do unskilled manual work.",
+    "benefits": "100 days guaranteed employment at minimum wage",
+    "application_process": "Register at Gram Panchayat with household details",
+    "url": "https://nrega.nic.in",
+    "tags": [
+      "employment",
+      "rural",
+      "unskilled",
+      "wage",
+      "central scheme"
+    ]
+  },
+  {
+    "scheme_name": "PM Street Vendor's AtmaNirbhar Nidhi",
+    "ministry": "Ministry of Housing and Urban Affairs",
+    "state": "Central",
+    "description": "Affordable working capital loan of ₹10,000-50,000 for street vendors to resume livelihoods after COVID disruption.",
+    "eligibility": "Street vendors with vending certificate or letter of recommendation from ULB.",
+    "benefits": "Collateral-free loans ₹10,000 to ₹50,000 with cashback incentives",
+    "application_process": "Apply at pmsvanidhi.mohua.gov.in or Common Service Centre",
+    "url": "https://pmsvanidhi.mohua.gov.in",
+    "tags": [
+      "street vendor",
+      "small business",
+      "loan",
+      "urban",
+      "central scheme"
+    ]
+  },
+  {
+    "scheme_name": "National Apprenticeship Training Scheme",
+    "ministry": "Ministry of Education",
+    "state": "Central",
+    "description": "Apprenticeship training for ITI pass-outs and freshers in industries with stipend support.",
+    "eligibility": "Students who have passed Class 8 or above. ITI pass-outs get priority.",
+    "benefits": "Monthly stipend ₹1,500-7,700 during apprenticeship period",
+    "application_process": "Register at apprenticeshipindia.org",
+    "url": "https://apprenticeshipindia.org",
+    "tags": [
+      "apprenticeship",
+      "skill",
+      "youth",
+      "employment",
+      "central scheme"
+    ]
+  },
+  {
+    "scheme_name": "Beti Bachao Beti Padhao",
+    "ministry": "Ministry of Women and Child Development",
+    "state": "Central",
+    "description": "Addresses declining child sex ratio and promotes welfare and education of the girl child through awareness and incentive programs.",
+    "eligibility": "Girl children and their families across India.",
+    "benefits": "Various state-level incentives for girl child education and welfare",
+    "application_process": "Contact nearest Anganwadi or district office",
+    "url": "https://wcd.nic.in/bbbp-schemes",
+    "tags": [
+      "girl child",
+      "education",
+      "women",
+      "central scheme"
+    ]
   },
   {
     "scheme_name": "Kerala Karshaka Kshemanidhi",
     "ministry": "Department of Agriculture, Kerala",
     "state": "Kerala",
-    "description": "Welfare fund scheme for farmers in Kerala providing pension, financial assistance for accidents and critical illness, and death benefits.",
-    "eligibility": "Farmers who have cultivated land for at least one season in Kerala. Registration with Karshaka Kshemanidhi Board.",
+    "description": "Welfare fund for farmers in Kerala providing pension, accident insurance, critical illness benefit, and death benefit to registered farmers.",
+    "eligibility": "Farmers who have cultivated land for at least one season and are registered with the Karshaka Kshemanidhi Board.",
     "benefits": "Monthly pension after 60 years, ₹1 lakh accident benefit, ₹50,000 critical illness benefit, ₹1 lakh death benefit",
-    "application_process": "Register at nearest Krishi Bhavan with land documents. Apply at karshakakshemanidhi.kerala.gov.in",
+    "application_process": "Register at nearest Karshaka Kshemanidhi Board office or Krishi Bhavan",
     "url": "https://karshakakshemanidhi.kerala.gov.in",
-    "tags": ["farmer", "Kerala", "pension", "agriculture", "welfare"]
+    "tags": [
+      "farmer",
+      "welfare",
+      "pension",
+      "Kerala",
+      "agriculture"
+    ]
   },
   {
     "scheme_name": "Kerala Ashraya Scheme",
     "ministry": "Local Self Government Department, Kerala",
     "state": "Kerala",
-    "description": "Integrated social security scheme for the destitute in Kerala. Provides comprehensive support including food, shelter, healthcare and livelihood to the most vulnerable.",
-    "eligibility": "Destitute persons in Kerala — homeless, extremely poor families, abandoned elderly, single women, differently-abled without support",
-    "benefits": "Monthly financial assistance, food security, housing assistance, healthcare support through community centers",
-    "application_process": "Apply at local panchayat office or municipal office with income and destitution certificate",
+    "description": "Comprehensive welfare program for destitute persons in Kerala providing monthly financial assistance, food security, housing support, and healthcare through community centers.",
+    "eligibility": "Destitute persons including homeless, extremely poor families, abandoned elderly, single women, differently-abled without support.",
+    "benefits": "Monthly financial assistance, food security, housing assistance, healthcare support",
+    "application_process": "Apply at nearest Local Self Government office or Kudumbashree unit",
     "url": "https://lsgkerala.gov.in",
-    "tags": ["Kerala", "destitute", "BPL", "elderly", "social security"]
+    "tags": [
+      "destitute",
+      "welfare",
+      "Kerala",
+      "elderly",
+      "women"
+    ]
   },
   {
-    "scheme_name": "Kerala Social Security Pension (KSSP)",
-    "ministry": "Social Justice Department, Kerala",
-    "state": "Kerala",
-    "description": "Monthly pension for agricultural laborers, unmarried women above 50, widows, and physically/mentally challenged persons in Kerala.",
-    "eligibility": "Agricultural laborers above 60 years, widows/deserted women, physically disabled (40%+ disability), mentally challenged. Income below ₹1 lakh/year.",
-    "benefits": "Monthly pension ₹1,600 for agricultural laborers, ₹1,400 for widows, ₹1,400 for disabled, ₹1,600 for unmarried women above 50",
-    "application_process": "Apply at local panchayat/municipality with age, income, widow/disability certificate as applicable",
-    "url": "https://swd.kerala.gov.in",
-    "tags": ["Kerala", "pension", "widow", "disabled", "agricultural laborer", "elderly"]
-  },
-  {
-    "scheme_name": "Kerala Pravasi Welfare Fund",
-    "ministry": "Non-Resident Keralites Affairs (NORKA), Kerala",
-    "state": "Kerala",
-    "description": "Welfare fund for Non-Resident Keralites (NRKs) and return emigrants. Provides accident insurance, death benefits, pension and support for returning emigrants.",
-    "eligibility": "Keralites who have worked abroad for at least one year. Registration with NORKA-ROOTS. Return emigrants who have come back.",
-    "benefits": "₹3 lakh accident insurance, ₹1 lakh death benefit, repatriation of mortal remains, ₹25,000 distress relief, pension for long-term members",
-    "application_process": "Register at norkaroots.kerala.gov.in or NORKA district office",
-    "url": "https://norkaroots.kerala.gov.in",
-    "tags": ["Kerala", "NRI", "gulf returnee", "emigrant", "insurance", "welfare"]
-  },
-  {
-    "scheme_name": "Kerala Kudumbashree",
-    "ministry": "State Poverty Eradication Mission, Kerala",
-    "state": "Kerala",
-    "description": "Women-led poverty eradication network through Neighborhood Groups (NHGs). Provides micro-finance, skill training, enterprise support and community development.",
-    "eligibility": "Women from below poverty line families in Kerala. Membership through local Neighborhood Group.",
-    "benefits": "Micro-loans at low interest, livelihood training, collective enterprise support, social development programs, government scheme linkage",
-    "application_process": "Join nearest Kudumbashree Neighborhood Group through local panchayat or ward member",
-    "url": "https://kudumbashree.org",
-    "tags": ["Kerala", "women", "BPL", "SHG", "microfinance", "livelihood"]
-  },
-  {
-    "scheme_name": "Kerala Student Police Cadet (SPC)",
-    "ministry": "Home Department, Kerala",
-    "state": "Kerala",
-    "description": "Programme for school students to develop civic sense, discipline and community service attitude through police-mentored training.",
-    "eligibility": "Students of Class 8-12 in Kerala government and aided schools",
-    "benefits": "Leadership training, personality development, traffic and disaster management training, direct employment preference in police recruitment",
-    "application_process": "Enroll through school. Selection done by school and district police.",
-    "url": "https://keralapolice.gov.in/spc",
-    "tags": ["Kerala", "student", "school", "youth", "skill"]
-  },
-  {
-    "scheme_name": "Kerala Housing Finance (LIFE Mission)",
+    "scheme_name": "Kerala LIFE Mission",
     "ministry": "Revenue & Housing Department, Kerala",
     "state": "Kerala",
-    "description": "Livelihood Inclusion and Financial Empowerment (LIFE) mission to provide housing to homeless and landless families in Kerala.",
-    "eligibility": "Landless homeless families, families living in dilapidated houses, Kudumbashree members without proper housing in Kerala",
-    "benefits": "₹4 lakh for house construction, land allotment for landless, regularization of encroachments",
-    "application_process": "Apply through local body (panchayat/municipality) with income and housing certificate",
+    "description": "Provides ₹4 lakh assistance for house construction and land allotment for landless families and Kudumbashree members without proper housing.",
+    "eligibility": "Landless homeless families, families living in dilapidated houses, Kudumbashree members without pucca house.",
+    "benefits": "₹4 lakh for house construction, land allotment for landless",
+    "application_process": "Apply through local body or Kudumbashree unit with income and domicile proof",
     "url": "https://lifemission.kerala.gov.in",
-    "tags": ["Kerala", "housing", "homeless", "BPL", "landless", "construction"]
+    "tags": [
+      "housing",
+      "Kerala",
+      "BPL",
+      "landless",
+      "construction"
+    ]
   },
   {
-    "scheme_name": "Tamil Nadu Chief Minister's Comprehensive Health Insurance Scheme",
-    "ministry": "Health and Family Welfare Department, Tamil Nadu",
+    "scheme_name": "Kudumbashree",
+    "ministry": "State Poverty Eradication Mission, Kerala",
+    "state": "Kerala",
+    "description": "Kerala's women empowerment and poverty eradication program providing micro-loans, livelihood training, collective enterprise support, and linking women to government welfare schemes.",
+    "eligibility": "Women from BPL and lower-income families in Kerala.",
+    "benefits": "Micro-loans at low interest, livelihood training, collective enterprise support, government scheme linkage",
+    "application_process": "Join nearest Kudumbashree Neighbourhood Group through local body",
+    "url": "https://www.kudumbashree.org",
+    "tags": [
+      "women",
+      "Kerala",
+      "poverty",
+      "microfinance",
+      "livelihood",
+      "entrepreneur"
+    ]
+  },
+  {
+    "scheme_name": "Kerala Vidyakiranam",
+    "ministry": "Kerala Social Security Mission",
+    "state": "Kerala",
+    "description": "Educational assistance for children of BPL families and differently-abled children to prevent school dropouts.",
+    "eligibility": "Children from BPL families and differently-abled children studying in government/aided schools.",
+    "benefits": "Annual scholarship and educational materials support",
+    "application_process": "Apply through school headmaster or nearest Social Security Mission office",
+    "url": "https://socialsecuritymission.gov.in",
+    "tags": [
+      "student",
+      "Kerala",
+      "BPL",
+      "scholarship",
+      "education",
+      "disabled"
+    ]
+  },
+  {
+    "scheme_name": "Kerala Karunya Health Scheme",
+    "ministry": "Health Department, Kerala",
+    "state": "Kerala",
+    "description": "Financial assistance for serious illnesses requiring expensive treatment for BPL families not covered under other health schemes.",
+    "eligibility": "BPL cardholders in Kerala diagnosed with serious illnesses like cancer, kidney failure, heart disease.",
+    "benefits": "Up to ₹2 lakh financial assistance for serious illness treatment",
+    "application_process": "Apply at District Medical Office with BPL card and medical records",
+    "url": "https://arogyakerala.org",
+    "tags": [
+      "health",
+      "Kerala",
+      "BPL",
+      "cancer",
+      "serious illness",
+      "financial assistance"
+    ]
+  },
+  {
+    "scheme_name": "Kerala Agricultural Workers Welfare Fund",
+    "ministry": "Labour Department, Kerala",
+    "state": "Kerala",
+    "description": "Welfare benefits including pension, maternity benefit, marriage assistance, and educational aid for agricultural workers registered under the fund.",
+    "eligibility": "Agricultural laborers in Kerala registered with the Agricultural Workers Welfare Fund Board.",
+    "benefits": "Monthly pension, ₹10,000 maternity benefit, marriage assistance, educational scholarship",
+    "application_process": "Register at nearest Labour Office with employer certificate",
+    "url": "https://www.lc.kerala.gov.in",
+    "tags": [
+      "agricultural worker",
+      "Kerala",
+      "pension",
+      "labor",
+      "welfare"
+    ]
+  },
+  {
+    "scheme_name": "Kerala Construction Workers Welfare Scheme",
+    "ministry": "Labour Department, Kerala",
+    "state": "Kerala",
+    "description": "Comprehensive welfare for construction workers including pension, accident benefit, marriage assistance, house construction loan, and educational aid.",
+    "eligibility": "Construction workers who have worked for at least 90 days and registered with BOCW Board.",
+    "benefits": "Pension, ₹1 lakh accident benefit, marriage and educational assistance, house construction loan",
+    "application_process": "Register at nearest Labour Office with 90-day work certificate",
+    "url": "https://bocwwb.kerala.gov.in",
+    "tags": [
+      "construction worker",
+      "Kerala",
+      "labor",
+      "pension",
+      "welfare"
+    ]
+  },
+  {
+    "scheme_name": "Kerala Fishermen Welfare Fund",
+    "ministry": "Fisheries Department, Kerala",
+    "state": "Kerala",
+    "description": "Welfare scheme for traditional fishermen providing pension, accident insurance, housing assistance, and education support.",
+    "eligibility": "Traditional fishermen registered with the Fishermen Welfare Fund Board.",
+    "benefits": "Monthly pension, accident insurance, housing support, education assistance for children",
+    "application_process": "Register at nearest Fisheries Department office",
+    "url": "https://fisheries.kerala.gov.in",
+    "tags": [
+      "fisherman",
+      "Kerala",
+      "pension",
+      "welfare",
+      "coastal"
+    ]
+  },
+  {
+    "scheme_name": "Chief Minister's Distress Relief Fund Kerala",
+    "ministry": "Kerala Government",
+    "state": "Kerala",
+    "description": "Emergency financial assistance to people in distress due to natural calamities, accidents, or severe health conditions.",
+    "eligibility": "Kerala residents facing financial distress due to calamity, accident, or serious illness.",
+    "benefits": "One-time financial assistance based on need",
+    "application_process": "Apply through District Collector's office with relevant documents",
+    "url": "https://kerala.gov.in",
+    "tags": [
+      "emergency",
+      "Kerala",
+      "disaster",
+      "relief",
+      "financial assistance"
+    ]
+  },
+  {
+    "scheme_name": "Tamil Nadu Chief Minister's Health Insurance",
+    "ministry": "Health Department, Tamil Nadu",
     "state": "Tamil Nadu",
-    "description": "Health insurance scheme for low income families in Tamil Nadu providing cashless treatment for 1027 procedures including cancer, cardiac and neurosurgeries.",
-    "eligibility": "Families with annual income below ₹72,000 in Tamil Nadu. Government employees not eligible.",
-    "benefits": "₹5 lakh health coverage per family per year, cashless treatment at 1000+ hospitals, covers 1027 procedures",
-    "application_process": "Enroll using ration card at nearest government hospital or enrollment center",
+    "description": "Health insurance providing cashless treatment up to ₹5 lakh per family per year at government and empanelled private hospitals.",
+    "eligibility": "Families with annual income below ₹72,000. Covers 1,027 procedures.",
+    "benefits": "Cashless treatment up to ₹5 lakh per family",
+    "application_process": "Enroll through nearest government hospital with ration card",
     "url": "https://www.cmchistn.com",
-    "tags": ["Tamil Nadu", "health insurance", "BPL", "family", "medical"]
+    "tags": [
+      "health",
+      "Tamil Nadu",
+      "insurance",
+      "cashless"
+    ]
+  },
+  {
+    "scheme_name": "Tamil Nadu Amma Two Wheeler Scheme",
+    "ministry": "Tamil Nadu Government",
+    "state": "Tamil Nadu",
+    "description": "Provides two-wheelers at subsidized rates for working women to facilitate commute.",
+    "eligibility": "Working women in Tamil Nadu with annual income below ₹2.5 lakh.",
+    "benefits": "Subsidy of ₹25,000 on purchase of two-wheeler",
+    "application_process": "Apply at nearest District Employment Office",
+    "url": "https://www.tn.gov.in",
+    "tags": [
+      "women",
+      "Tamil Nadu",
+      "transport",
+      "employment"
+    ]
+  },
+  {
+    "scheme_name": "Tamil Nadu Magalir Urimai Thogai",
+    "ministry": "Tamil Nadu Government",
+    "state": "Tamil Nadu",
+    "description": "Direct cash transfer of ₹1,000 per month to women heads of eligible families.",
+    "eligibility": "Women who are heads of family with annual income below ₹2.5 lakh.",
+    "benefits": "₹1,000 per month direct cash transfer",
+    "application_process": "Apply at nearest government office with income and family documents",
+    "url": "https://www.tn.gov.in",
+    "tags": [
+      "women",
+      "Tamil Nadu",
+      "cash transfer",
+      "poverty"
+    ]
+  },
+  {
+    "scheme_name": "Tamil Nadu Free Education Scheme",
+    "ministry": "School Education Department, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "description": "Provides free uniforms, books, notebooks, shoes, bags, and bicycle to government school students.",
+    "eligibility": "Students studying in Tamil Nadu government schools.",
+    "benefits": "Free uniform, books, notebook, shoes, bag, bicycle for eligible students",
+    "application_process": "Automatically provided through school enrollment",
+    "url": "https://www.tn.gov.in",
+    "tags": [
+      "student",
+      "Tamil Nadu",
+      "education",
+      "free materials"
+    ]
+  },
+  {
+    "scheme_name": "Andhra Pradesh YSR Pension Kanuka",
+    "ministry": "Andhra Pradesh Government",
+    "state": "Andhra Pradesh",
+    "description": "Comprehensive pension scheme covering old age, widow, weavers, toddy tappers, fishermen, disabled, and HIV-affected persons.",
+    "eligibility": "Various categories of vulnerable persons in Andhra Pradesh.",
+    "benefits": "₹2,750-10,000 per month pension depending on category",
+    "application_process": "Apply through Navasakam or Village Secretariat",
+    "url": "https://navasakam.apcfss.in",
+    "tags": [
+      "pension",
+      "Andhra Pradesh",
+      "elderly",
+      "widow",
+      "disabled"
+    ]
+  },
+  {
+    "scheme_name": "Andhra Pradesh Jagananna Amma Vodi",
+    "ministry": "Andhra Pradesh Government",
+    "state": "Andhra Pradesh",
+    "description": "Annual financial assistance of ₹15,000 to mothers of school-going children to support education.",
+    "eligibility": "Mothers with children attending government schools in Andhra Pradesh from white or yellow ration card families.",
+    "benefits": "₹15,000 per year for each child in government school",
+    "application_process": "Automatically enrolled if child is in government school",
+    "url": "https://jaganannaammavodi.ap.gov.in",
+    "tags": [
+      "education",
+      "Andhra Pradesh",
+      "women",
+      "student",
+      "financial assistance"
+    ]
+  },
+  {
+    "scheme_name": "Andhra Pradesh YSR Housing Scheme",
+    "ministry": "Andhra Pradesh Government",
+    "state": "Andhra Pradesh",
+    "description": "Houses with all amenities provided free to homeless and kutcha house dwellers.",
+    "eligibility": "Homeless or kutcha house dwellers not covered under any other housing scheme.",
+    "benefits": "Free pucca house with electricity, water, toilet",
+    "application_process": "Apply through Village Secretariat or Navasakam",
+    "url": "https://ysrhousing.ap.gov.in",
+    "tags": [
+      "housing",
+      "Andhra Pradesh",
+      "BPL",
+      "free house"
+    ]
+  },
+  {
+    "scheme_name": "Telangana Rythu Bandhu",
+    "ministry": "Agriculture Department, Telangana",
+    "state": "Telangana",
+    "description": "Investment support of ₹10,000 per acre per season (₹5,000 for rabi, ₹5,000 for kharif) to all farmer landowners.",
+    "eligibility": "All farmer landowners in Telangana with Pattadar passbooks.",
+    "benefits": "₹10,000 per acre per year (₹5,000 per season)",
+    "application_process": "Automatically credited to registered bank account linked to Pattadar passbook",
+    "url": "https://rythu.telangana.gov.in",
+    "tags": [
+      "farmer",
+      "Telangana",
+      "agriculture",
+      "investment support"
+    ]
+  },
+  {
+    "scheme_name": "Telangana KCR Kit",
+    "ministry": "Women and Child Development, Telangana",
+    "state": "Telangana",
+    "description": "Maternity benefit scheme providing ₹12,000 cash and baby care kit to pregnant women for institutional delivery.",
+    "eligibility": "Pregnant women in Telangana delivering at government hospitals.",
+    "benefits": "₹12,000 cash + baby care kit worth ₹5,000",
+    "application_process": "Register at nearest government hospital during antenatal care",
+    "url": "https://www.telangana.gov.in",
+    "tags": [
+      "pregnant",
+      "maternity",
+      "Telangana",
+      "women",
+      "baby"
+    ]
+  },
+  {
+    "scheme_name": "Maharashtra Mahatma Jyotirao Phule Jan Arogya Yojana",
+    "ministry": "Health Department, Maharashtra",
+    "state": "Maharashtra",
+    "description": "Health insurance coverage of ₹1.5 lakh per year for yellow and orange ration card holders at empanelled hospitals.",
+    "eligibility": "Yellow and orange ration card holders in Maharashtra.",
+    "benefits": "Cashless treatment up to ₹1.5 lakh per year",
+    "application_process": "Enroll at nearest government hospital with ration card",
+    "url": "https://www.jeevandayee.gov.in",
+    "tags": [
+      "health",
+      "Maharashtra",
+      "insurance",
+      "BPL"
+    ]
+  },
+  {
+    "scheme_name": "Maharashtra Sharad Pawar Gram Samridhi Yojana",
+    "ministry": "Agriculture Department, Maharashtra",
+    "state": "Maharashtra",
+    "description": "Comprehensive agricultural development scheme providing irrigation, soil health, and crop support to farmers.",
+    "eligibility": "Farmers in Maharashtra with agricultural land.",
+    "benefits": "Irrigation support, soil testing, crop insurance subsidy",
+    "application_process": "Apply at nearest Agriculture Office",
+    "url": "https://krishi.maharashtra.gov.in",
+    "tags": [
+      "farmer",
+      "Maharashtra",
+      "agriculture",
+      "irrigation"
+    ]
   },
   {
     "scheme_name": "Karnataka Rajiv Gandhi Housing Corporation",
     "ministry": "Housing Department, Karnataka",
     "state": "Karnataka",
-    "description": "Provides affordable housing to SC/ST, BPL families and urban poor in Karnataka through various housing schemes.",
-    "eligibility": "SC/ST families, BPL families, urban slum dwellers in Karnataka. Income below ₹3 lakh/year.",
-    "benefits": "Housing units at subsidized rates, land allotment, construction subsidy up to ₹1.5 lakh",
-    "application_process": "Apply at district Rajiv Gandhi Housing Corporation office or karenahousescheme.karnataka.gov.in",
-    "url": "https://rghcl.karnataka.gov.in",
-    "tags": ["Karnataka", "housing", "SC/ST", "BPL", "construction"]
+    "description": "Housing assistance for SC/ST, OBC, and BPL families in Karnataka for construction of new houses.",
+    "eligibility": "SC/ST, OBC, and BPL families without pucca house in Karnataka.",
+    "benefits": "Financial assistance up to ₹1.5 lakh for house construction",
+    "application_process": "Apply at nearest RGRHCL office or taluk office",
+    "url": "https://ashraya.karnataka.gov.in",
+    "tags": [
+      "housing",
+      "Karnataka",
+      "SC/ST",
+      "OBC",
+      "BPL"
+    ]
   },
   {
-    "scheme_name": "Maharashtra Mahatma Jyotirao Phule Jan Arogya Yojana",
-    "ministry": "Public Health Department, Maharashtra",
-    "state": "Maharashtra",
-    "description": "Health insurance scheme for below poverty line families in Maharashtra covering 996 procedures at network hospitals.",
-    "eligibility": "Yellow and orange ration card holders in Maharashtra, farmers with crop loan under ₹1.5 lakh waiver",
-    "benefits": "₹1.5 lakh health coverage per family per year (₹2.5 lakh for cancer patients), cashless treatment at 1000+ hospitals",
-    "application_process": "Enroll at government hospital using ration card",
-    "url": "https://www.jeevandayee.gov.in",
-    "tags": ["Maharashtra", "health insurance", "BPL", "farmer", "hospitalization"]
+    "scheme_name": "Karnataka Gruha Lakshmi",
+    "ministry": "Karnataka Government",
+    "state": "Karnataka",
+    "description": "Monthly financial assistance of ₹2,000 to women heads of BPL families.",
+    "eligibility": "Women who are heads of family holding BPL/APL ration card in Karnataka.",
+    "benefits": "₹2,000 per month direct benefit transfer",
+    "application_process": "Apply through Seva Sindhu portal or nearest government office",
+    "url": "https://sevasindhu.karnataka.gov.in",
+    "tags": [
+      "women",
+      "Karnataka",
+      "BPL",
+      "cash transfer",
+      "poverty"
+    ]
   },
   {
-    "scheme_name": "Andhra Pradesh YSR Rythu Bharosa",
-    "ministry": "Agriculture Department, Andhra Pradesh",
-    "state": "Andhra Pradesh",
-    "description": "Investment support scheme for farmers in Andhra Pradesh providing ₹13,500 per year per farmer family combining central and state government support.",
-    "eligibility": "All farmer families in Andhra Pradesh with cultivable land. Includes tenant farmers.",
-    "benefits": "₹13,500 per year (₹6,000 from PM Kisan + ₹7,500 from state) in two installments",
-    "application_process": "Automatic for registered farmers. New registration at meeseva.gov.in or nearest Rythu Bharosa Kendra",
-    "url": "https://ysrrythubharosa.ap.gov.in",
-    "tags": ["Andhra Pradesh", "farmer", "agriculture", "income support"]
+    "scheme_name": "Karnataka Vidya Siri",
+    "ministry": "Education Department, Karnataka",
+    "state": "Karnataka",
+    "description": "Scholarship for SC/ST students pursuing higher education to cover tuition fees and maintenance allowance.",
+    "eligibility": "SC/ST students admitted to recognized colleges in Karnataka with family income below ₹2.5 lakh.",
+    "benefits": "Full tuition fee reimbursement and maintenance allowance",
+    "application_process": "Apply through college or karepass.cgg.gov.in",
+    "url": "https://ssp.postmatric.karnataka.gov.in",
+    "tags": [
+      "student",
+      "Karnataka",
+      "SC/ST",
+      "scholarship",
+      "higher education"
+    ]
+  },
+  {
+    "scheme_name": "Gujarat Kisan Suryoday Yojana",
+    "ministry": "Agriculture Department, Gujarat",
+    "state": "Gujarat",
+    "description": "Provides daytime electricity to farmers for irrigation at nominal rates through solar power.",
+    "eligibility": "Farmers in Gujarat with agricultural connections.",
+    "benefits": "Daytime power supply for irrigation at affordable rates",
+    "application_process": "Apply through PGVCL/UGVCL/MGVCL/DGVCL",
+    "url": "https://www.gujaratindia.gov.in",
+    "tags": [
+      "farmer",
+      "Gujarat",
+      "electricity",
+      "irrigation",
+      "solar"
+    ]
   },
   {
     "scheme_name": "Gujarat Mukhyamantri Mahila Utkarsh Yojana",
-    "ministry": "Women and Child Development Department, Gujarat",
+    "ministry": "Gujarat Government",
     "state": "Gujarat",
-    "description": "Interest-free loan scheme for women SHGs in Gujarat to support income generating activities and financial empowerment of women.",
-    "eligibility": "Women Self Help Groups in Gujarat with active bank account and good repayment record",
-    "benefits": "Interest-free loan up to ₹1 lakh per SHG member (up to ₹100 crore sanctioned per SHG)",
-    "application_process": "Apply through Women and Child Development office or Gram Panchayat",
-    "url": "https://wcd.gujarat.gov.in",
-    "tags": ["Gujarat", "women", "SHG", "loan", "entrepreneur", "interest-free"]
+    "description": "Interest-free loans up to ₹1 lakh to women self-help groups for livelihood activities.",
+    "eligibility": "Women SHG members in Gujarat.",
+    "benefits": "Interest-free loan up to ₹1 lakh per SHG member",
+    "application_process": "Apply through SHG or nearest bank",
+    "url": "https://www.gujaratindia.gov.in",
+    "tags": [
+      "women",
+      "Gujarat",
+      "SHG",
+      "loan",
+      "livelihood",
+      "entrepreneur"
+    ]
   },
   {
-    "scheme_name": "West Bengal Swasthya Sathi",
-    "ministry": "Health Department, West Bengal",
-    "state": "West Bengal",
-    "description": "Universal health coverage scheme for all families in West Bengal providing cashless healthcare at empanelled hospitals. Smart card based.",
-    "eligibility": "All families in West Bengal. Woman of the family is primary beneficiary and card holder.",
-    "benefits": "₹5 lakh health coverage per family per year, cashless treatment, covers pre and post hospitalization expenses",
-    "application_process": "Enrollment at Gram Panchayat or municipality with family details. Swasthya Sathi smart card issued.",
-    "url": "https://swasthyasathi.gov.in",
-    "tags": ["West Bengal", "health insurance", "all families", "women", "cashless"]
+    "scheme_name": "Rajasthan Palanhar Yojana",
+    "ministry": "Social Justice Department, Rajasthan",
+    "state": "Rajasthan",
+    "description": "Financial assistance to relatives/neighbors caring for orphaned and destitute children to raise them in family environment.",
+    "eligibility": "Relatives or neighbors raising orphaned children, children of imprisoned parents, or destitute children.",
+    "benefits": "₹500/month for 0-6 years, ₹1,000/month for 6-18 years, plus annual clothing allowance",
+    "application_process": "Apply at District Social Justice Office",
+    "url": "https://sje.rajasthan.gov.in",
+    "tags": [
+      "child welfare",
+      "Rajasthan",
+      "orphan",
+      "destitute"
+    ]
   },
   {
     "scheme_name": "Rajasthan Mukhyamantri Chiranjeevi Swasthya Bima Yojana",
-    "ministry": "Medical and Health Department, Rajasthan",
+    "ministry": "Health Department, Rajasthan",
     "state": "Rajasthan",
-    "description": "Universal health coverage scheme in Rajasthan providing ₹25 lakh health insurance per family per year at empanelled hospitals.",
-    "eligibility": "All families in Rajasthan. Free for NFSA, BPL, small farmers, EWS. Others pay ₹850/year premium.",
-    "benefits": "₹25 lakh health coverage per year, ₹5 lakh basic + ₹20 lakh catastrophic illness, cashless treatment at 2000+ hospitals",
-    "application_process": "Register at chiranjeevi.rajasthan.gov.in or e-mitra center",
+    "description": "Universal health coverage providing cashless treatment up to ₹25 lakh per family per year.",
+    "eligibility": "All families in Rajasthan. BPL/NFSA families get free coverage; others pay ₹850/year premium.",
+    "benefits": "Cashless treatment up to ₹25 lakh per year",
+    "application_process": "Register at chiranjeevi.rajasthan.gov.in or Jan Aadhaar center",
     "url": "https://chiranjeevi.rajasthan.gov.in",
-    "tags": ["Rajasthan", "health insurance", "all families", "BPL", "hospitalization"]
+    "tags": [
+      "health",
+      "Rajasthan",
+      "insurance",
+      "universal coverage"
+    ]
+  },
+  {
+    "scheme_name": "West Bengal Lakshmir Bhandar",
+    "ministry": "West Bengal Government",
+    "state": "West Bengal",
+    "description": "Monthly financial assistance to women heads of household to ensure basic income support.",
+    "eligibility": "Women heads of household between 25-60 years in West Bengal. SC/ST get ₹1,000/month, general ₹500/month.",
+    "benefits": "₹500-1,000 per month direct benefit transfer",
+    "application_process": "Apply through Duare Sarkar camps or nearest government office",
+    "url": "https://wb.gov.in",
+    "tags": [
+      "women",
+      "West Bengal",
+      "income support",
+      "cash transfer"
+    ]
+  },
+  {
+    "scheme_name": "West Bengal Kanyashree Prakalpa",
+    "ministry": "Women and Child Development, West Bengal",
+    "state": "West Bengal",
+    "description": "Conditional cash transfer to unmarried girls to continue education and prevent child marriage.",
+    "eligibility": "Unmarried girls aged 13-18 years enrolled in school from families with annual income below ₹1.2 lakh.",
+    "benefits": "Annual scholarship ₹1,000 + one-time grant ₹25,000 at 18 years",
+    "application_process": "Apply through school with age and income proof",
+    "url": "https://www.wbkanyashree.gov.in",
+    "tags": [
+      "girl child",
+      "West Bengal",
+      "education",
+      "scholarship",
+      "anti-child marriage"
+    ]
+  },
+  {
+    "scheme_name": "Punjab Ashirwad Scheme",
+    "ministry": "Punjab Government",
+    "state": "Punjab",
+    "description": "Financial assistance of ₹51,000 for marriage of daughters from BPL/SC families.",
+    "eligibility": "BPL and SC families in Punjab with daughters getting married.",
+    "benefits": "₹51,000 marriage assistance",
+    "application_process": "Apply at District Social Security Office",
+    "url": "https://punjab.gov.in",
+    "tags": [
+      "marriage",
+      "Punjab",
+      "SC",
+      "BPL",
+      "women",
+      "financial assistance"
+    ]
   },
   {
     "scheme_name": "Bihar Student Credit Card Scheme",
     "ministry": "Education Department, Bihar",
     "state": "Bihar",
-    "description": "Loan scheme for students in Bihar who have passed Class 12 to pursue higher education. Provides up to ₹4 lakh loan at very low interest rate.",
-    "eligibility": "Students domiciled in Bihar who have passed Class 12 from recognized institution. For pursuing higher education in recognized institutions.",
-    "benefits": "Loan up to ₹4 lakh at 4% interest (1% for women/transgender/disabled). No collateral, no guarantor.",
-    "application_process": "Apply at 7nishchay-yuvaupmission.bihar.gov.in or nearest DRCC center",
-    "url": "https://7nishchay-yuvaupmission.bihar.gov.in",
-    "tags": ["Bihar", "student", "education loan", "higher education", "youth"]
+    "description": "Student credit card providing loans up to ₹4 lakh for higher education at 4% interest rate.",
+    "eligibility": "Students who have passed Class 12 from Bihar. No collateral required.",
+    "benefits": "Loan up to ₹4 lakh at 4% interest for higher education",
+    "application_process": "Apply at DRCC (District Registration and Counselling Centre)",
+    "url": "https://www.7nishchay-yuvaupmission.bihar.gov.in",
+    "tags": [
+      "student",
+      "Bihar",
+      "loan",
+      "higher education"
+    ]
   },
   {
-    "scheme_name": "Telangana Kalyana Lakshmi / Shaadi Mubarak",
-    "ministry": "BC Welfare Department, Telangana",
-    "state": "Telangana",
-    "description": "Marriage assistance scheme for girls from BC/SC/ST and minority communities in Telangana. Provides financial assistance for wedding expenses.",
-    "eligibility": "Girls from BC (Kalyana Lakshmi), minority (Shaadi Mubarak) communities in Telangana. Bride should be 18+ and groom 21+.",
-    "benefits": "₹1,00,116 financial assistance transferred to bride's bank account for wedding expenses",
-    "application_process": "Apply at meesevaseva.telangana.gov.in or nearest MeeSeva center after wedding registration",
-    "url": "https://telanganaepass.cgg.gov.in",
-    "tags": ["Telangana", "women", "marriage", "BC", "SC/ST", "minority"]
+    "scheme_name": "Bihar Mukhyamantri Kanya Utthan Yojana",
+    "ministry": "Women and Child Development, Bihar",
+    "state": "Bihar",
+    "description": "Incentive scheme for girl child from birth to graduation providing financial support at various stages.",
+    "eligibility": "Girl children born in Bihar from families with annual income below ₹1.5 lakh.",
+    "benefits": "Total ₹54,100 given in stages from birth to graduation",
+    "application_process": "Register through Anganwadi worker at birth",
+    "url": "https://wdc.bih.nic.in",
+    "tags": [
+      "girl child",
+      "Bihar",
+      "education",
+      "scholarship",
+      "incentive"
+    ]
   },
   {
-    "scheme_name": "Madhya Pradesh Ladli Laxmi Yojana",
-    "ministry": "Women and Child Development Department, MP",
-    "state": "Madhya Pradesh",
-    "description": "Scheme to improve sex ratio and status of girl child in MP. Provides financial benefits to girl child from birth to higher education in multiple installments.",
-    "eligibility": "Girl child born after January 1, 2006. Family should be registered under MP's Ladli Laxmi Yojana. Family should not be income tax payer.",
-    "benefits": "Total benefit ₹1,43,000: ₹2,000/year for 5 years (NSC), scholarships at various education stages, ₹1 lakh at marriage after Class 12.",
-    "application_process": "Register girl child at nearest Anganwadi or online at ladlilaxmi.mp.gov.in within 1 year of birth",
-    "url": "https://ladlilaxmi.mp.gov.in",
-    "tags": ["Madhya Pradesh", "girl child", "education", "savings", "family"]
-  },
-  {
-    "scheme_name": "Punjab Ashirwad Scheme",
-    "ministry": "Social Security Department, Punjab",
-    "state": "Punjab",
-    "description": "Financial assistance for marriage of daughters from poor families in Punjab. One-time grant to reduce financial burden of wedding expenses.",
-    "eligibility": "BPL families in Punjab with annual income below ₹32,790. Maximum 2 daughters per family.",
-    "benefits": "₹51,000 for marriage of daughter from BPL families",
-    "application_process": "Apply at nearest Aam Aadmi Clinic or Social Security office with income certificate",
-    "url": "https://sswepb.punjab.gov.in",
-    "tags": ["Punjab", "women", "marriage", "BPL", "girl child"]
-  },
-  {
-    "scheme_name": "Assam Arunodai Scheme",
-    "ministry": "Finance Department, Assam",
-    "state": "Assam",
-    "description": "Monthly financial assistance to women from economically weaker families in Assam to improve their livelihood and socioeconomic status.",
-    "eligibility": "Women from families with income below ₹2 lakh/year in Assam. One woman per household.",
-    "benefits": "₹1,250 per month direct transfer to woman's bank account",
-    "application_process": "Apply at nearest Arunodai center or through Assam government's online portal",
-    "url": "https://arunodai.assam.gov.in",
-    "tags": ["Assam", "women", "BPL", "monthly assistance", "financial support"]
+    "scheme_name": "Odisha Biju Swasthya Kalyan Yojana",
+    "ministry": "Health Department, Odisha",
+    "state": "Odisha",
+    "description": "Universal health coverage providing cashless treatment up to ₹5 lakh for general families and ₹10 lakh for women.",
+    "eligibility": "All NFSA and SFSS beneficiary families in Odisha.",
+    "benefits": "Cashless treatment up to ₹5 lakh (₹10 lakh for women)",
+    "application_process": "Use smart health card at empanelled hospitals",
+    "url": "https://bskyodisha.gov.in",
+    "tags": [
+      "health",
+      "Odisha",
+      "insurance",
+      "women",
+      "universal coverage"
+    ]
   },
   {
     "scheme_name": "Odisha KALIA Scheme",
     "ministry": "Agriculture Department, Odisha",
     "state": "Odisha",
-    "description": "Comprehensive livelihood and income augmentation scheme for farmers and landless agricultural laborers in Odisha.",
-    "eligibility": "Small and marginal farmers, sharecroppers, landless agricultural laborers in Odisha",
-    "benefits": "₹10,000 per year for cultivation support (₹5,000 per season x 2), ₹12,500 for landless laborers, ₹2 lakh life insurance, ₹2 lakh accidental insurance",
-    "application_process": "Apply at kalia.odisha.gov.in or nearest Common Service Centre",
+    "description": "Comprehensive livelihood and income augmentation scheme for farmers and landless agricultural workers.",
+    "eligibility": "Small and marginal farmers, landless agricultural households, vulnerable agricultural households in Odisha.",
+    "benefits": "₹10,000 per season for cultivation, ₹12,500 for livelihood activities",
+    "application_process": "Apply at nearest agriculture office or kalia.odisha.gov.in",
     "url": "https://kalia.odisha.gov.in",
-    "tags": ["Odisha", "farmer", "agriculture", "landless laborer", "income support"]
+    "tags": [
+      "farmer",
+      "Odisha",
+      "agriculture",
+      "livelihood",
+      "income support"
+    ]
   },
   {
-    "scheme_name": "Jharkhand Savitribai Phule Kishori Samridhi Yojana",
-    "ministry": "Women and Child Development Department, Jharkhand",
-    "state": "Jharkhand",
-    "description": "Girls education and marriage assistance scheme for ST/SC/BPL families in Jharkhand. Provides financial support at different stages of girl's education.",
-    "eligibility": "Girls from SC/ST/BPL/SECC-2011 listed/AAY ration card families in Jharkhand. Class 8-12 students.",
-    "benefits": "₹2,500 for Class 8-9, ₹5,000 for Class 10-12, ₹20,000 on completing Class 12 or on reaching 18 years for marriage/higher education",
-    "application_process": "Enroll at school. Apply through school and district welfare office.",
-    "url": "https://jharkhand.gov.in/wcd",
-    "tags": ["Jharkhand", "girl child", "SC/ST", "BPL", "education", "student"]
+    "scheme_name": "Assam Orunodoi Scheme",
+    "ministry": "Assam Government",
+    "state": "Assam",
+    "description": "Monthly financial assistance of ₹1,250 to economically vulnerable families deposited in women's bank accounts.",
+    "eligibility": "Economically vulnerable families in Assam with annual income below ₹2 lakh.",
+    "benefits": "₹1,250 per month deposited in woman member's bank account",
+    "application_process": "Apply through Gram Panchayat or Urban Local Body",
+    "url": "https://assam.gov.in",
+    "tags": [
+      "women",
+      "Assam",
+      "income support",
+      "poverty",
+      "cash transfer"
+    ]
   },
   {
-    "scheme_name": "Himachal Pradesh Mukhya Mantri Swavalamban Yojana",
-    "ministry": "Industries Department, Himachal Pradesh",
+    "scheme_name": "Madhya Pradesh Ladli Laxmi Yojana",
+    "ministry": "Women and Child Development, MP",
+    "state": "Madhya Pradesh",
+    "description": "Financial benefit scheme for girl child providing cumulative investment of ₹1,43,000 over 21 years for education and marriage.",
+    "eligibility": "Girl child born on or after January 1, 2006. Family should be enrolled in LIC.",
+    "benefits": "₹1,43,000 total in installments for education and marriage support",
+    "application_process": "Apply at nearest Anganwadi or online at ladlilaxmi.mp.gov.in",
+    "url": "https://ladlilaxmi.mp.gov.in",
+    "tags": [
+      "girl child",
+      "Madhya Pradesh",
+      "education",
+      "marriage",
+      "incentive"
+    ]
+  },
+  {
+    "scheme_name": "Madhya Pradesh Mukhyamantri Kalyani Vivah Sahayata",
+    "ministry": "Social Justice, Madhya Pradesh",
+    "state": "Madhya Pradesh",
+    "description": "Financial assistance of ₹2 lakh for marriage of widows in Madhya Pradesh.",
+    "eligibility": "Widows in Madhya Pradesh getting remarried.",
+    "benefits": "₹2 lakh marriage assistance",
+    "application_process": "Apply at District Social Justice Office",
+    "url": "https://socialjustice.mp.gov.in",
+    "tags": [
+      "widow",
+      "Madhya Pradesh",
+      "marriage",
+      "women",
+      "financial assistance"
+    ]
+  },
+  {
+    "scheme_name": "Himachal Pradesh Sahara Yojana",
+    "ministry": "Health Department, Himachal Pradesh",
     "state": "Himachal Pradesh",
-    "description": "Entrepreneurship promotion scheme in HP providing capital subsidy and interest subsidy for setting up enterprises by youth.",
-    "eligibility": "HP domicile aged 18-45 years setting up enterprise. Manufacturing up to ₹1 crore, service/trade up to ₹25 lakh.",
-    "benefits": "25-35% capital subsidy on plant and machinery, 3% interest subsidy for first 5 years, machinery on deferred payment",
-    "application_process": "Apply at District Industries Centre with project report and bank loan sanction letter",
-    "url": "https://himachal.nic.in/industries",
-    "tags": ["Himachal Pradesh", "entrepreneur", "youth", "business", "subsidy", "manufacturing"]
+    "description": "Monthly financial assistance of ₹3,000 to persons suffering from serious diseases like cancer, Parkinson's, muscular dystrophy, hemophilia, thalassemia, renal failure, and liver failure.",
+    "eligibility": "HP residents with specified serious diseases having annual family income below ₹4 lakh.",
+    "benefits": "₹3,000 per month financial assistance",
+    "application_process": "Apply at nearest CDMO office with medical certificate",
+    "url": "https://himachal.nic.in",
+    "tags": [
+      "health",
+      "Himachal Pradesh",
+      "serious illness",
+      "financial assistance",
+      "cancer"
+    ]
+  },
+  {
+    "scheme_name": "Jharkhand Sarvajan Pension Yojana",
+    "ministry": "Social Welfare, Jharkhand",
+    "state": "Jharkhand",
+    "description": "Universal old age pension for all residents above 60 years not covered under any other pension scheme.",
+    "eligibility": "All residents of Jharkhand above 60 years not receiving pension from any other source.",
+    "benefits": "₹1,000 per month pension",
+    "application_process": "Apply at nearest Block Development Office",
+    "url": "https://jharkhand.gov.in",
+    "tags": [
+      "pension",
+      "Jharkhand",
+      "elderly",
+      "old age"
+    ]
+  },
+  {
+    "scheme_name": "Chhattisgarh Mukhyamantri Suposhan Abhiyan",
+    "ministry": "Women and Child Development, CG",
+    "state": "Central",
+    "description": "Nutrition support program for malnourished children and pregnant/lactating women providing supplementary food.",
+    "eligibility": "Malnourished children under 5 years and pregnant/lactating women.",
+    "benefits": "Daily nutritious meal, health monitoring, and medical referral",
+    "application_process": "Register at nearest Anganwadi center",
+    "url": "https://cgwcd.gov.in",
+    "tags": [
+      "nutrition",
+      "child",
+      "pregnant",
+      "women",
+      "health"
+    ]
+  },
+  {
+    "scheme_name": "Goa Griha Aadhar Scheme",
+    "ministry": "Women and Child Development, Goa",
+    "state": "Central",
+    "description": "Monthly financial assistance to homemakers to recognize their contribution and provide economic security.",
+    "eligibility": "Homemaker women in Goa with family income below ₹3 lakh per year.",
+    "benefits": "₹1,500 per month financial assistance",
+    "application_process": "Apply at nearest Mamlatdar office",
+    "url": "https://www.goa.gov.in",
+    "tags": [
+      "women",
+      "homemaker",
+      "financial assistance",
+      "Goa"
+    ]
+  },
+  {
+    "scheme_name": "PM Fasal Bima Yojana",
+    "ministry": "Ministry of Agriculture",
+    "state": "Central",
+    "description": "Crop insurance scheme providing financial support to farmers suffering crop loss/damage due to natural calamities, pests and diseases.",
+    "eligibility": "All farmers including sharecroppers and tenant farmers growing notified crops.",
+    "benefits": "Insurance coverage for crop loss with premium subsidy of 50-95%",
+    "application_process": "Apply through bank at time of crop loan or through insurance company",
+    "url": "https://pmfby.gov.in",
+    "tags": [
+      "farmer",
+      "crop insurance",
+      "agriculture",
+      "central scheme",
+      "natural disaster"
+    ]
+  },
+  {
+    "scheme_name": "Soil Health Card Scheme",
+    "ministry": "Ministry of Agriculture",
+    "state": "Central",
+    "description": "Provides soil health cards to farmers with crop-wise recommendations for nutrients and fertilizers.",
+    "eligibility": "All farmers with agricultural land.",
+    "benefits": "Free soil testing and customized fertilizer recommendations",
+    "application_process": "Contact nearest Krishi Vigyan Kendra or agriculture department",
+    "url": "https://soilhealth.dac.gov.in",
+    "tags": [
+      "farmer",
+      "soil",
+      "agriculture",
+      "central scheme"
+    ]
+  },
+  {
+    "scheme_name": "Rashtriya Krishi Vikas Yojana",
+    "ministry": "Ministry of Agriculture",
+    "state": "Central",
+    "description": "Provides flexibility and autonomy to states to implement programs for agricultural growth based on local needs.",
+    "eligibility": "Farmers, farmer groups, and agricultural cooperatives.",
+    "benefits": "Subsidies for equipment, infrastructure, and capacity building",
+    "application_process": "Apply through State Agriculture Department",
+    "url": "https://rkvy.nic.in",
+    "tags": [
+      "farmer",
+      "agriculture",
+      "central scheme",
+      "subsidy"
+    ]
+  },
+  {
+    "scheme_name": "National Rural Livelihood Mission",
+    "ministry": "Ministry of Rural Development",
+    "state": "Central",
+    "description": "Promotes poverty reduction through building strong institutions of poor, and provides support for diverse livelihoods including skilling and financing.",
+    "eligibility": "Rural poor households, especially women.",
+    "benefits": "SHG formation support, revolving fund, community investment fund, skill training",
+    "application_process": "Join nearest SHG or contact Block Mission Management Unit",
+    "url": "https://aajeevika.gov.in",
+    "tags": [
+      "rural poor",
+      "SHG",
+      "women",
+      "livelihood",
+      "central scheme"
+    ]
+  },
+  {
+    "scheme_name": "Startup India",
+    "ministry": "Ministry of Commerce and Industry",
+    "state": "Central",
+    "description": "Flagship initiative providing tax benefits, easier compliance, funding access, and mentorship for startups.",
+    "eligibility": "DPIIT-recognized startups less than 10 years old with annual turnover below ₹100 crore.",
+    "benefits": "3-year income tax exemption, capital gains exemption, faster exits, ₹10,000 crore fund",
+    "application_process": "Register at startupindia.gov.in for DPIIT recognition",
+    "url": "https://www.startupindia.gov.in",
+    "tags": [
+      "startup",
+      "entrepreneur",
+      "tax benefit",
+      "central scheme",
+      "business"
+    ]
+  },
+  {
+    "scheme_name": "PM Employment Generation Programme",
+    "ministry": "Ministry of MSME",
+    "state": "Central",
+    "description": "Credit-linked subsidy scheme for setting up micro enterprises in non-farm sector to generate employment.",
+    "eligibility": "Any individual above 18 years for projects up to ₹50 lakh in manufacturing and ₹20 lakh in service sector.",
+    "benefits": "25-35% subsidy on project cost",
+    "application_process": "Apply at nearest KVIC/KVIB office or through bank",
+    "url": "https://www.kviconline.gov.in/pmegpeportal",
+    "tags": [
+      "entrepreneur",
+      "MSME",
+      "subsidy",
+      "employment",
+      "central scheme"
+    ]
+  },
+  {
+    "scheme_name": "Anganwadi Services",
+    "ministry": "Ministry of Women and Child Development",
+    "state": "Central",
+    "description": "Integrated child development services providing nutrition, health, pre-school education for children 0-6 years and pregnant/lactating women.",
+    "eligibility": "Children 0-6 years, pregnant women, and lactating mothers.",
+    "benefits": "Supplementary nutrition, immunization, health checkup, pre-school education, referral services",
+    "application_process": "Register at nearest Anganwadi center",
+    "url": "https://wcd.nic.in",
+    "tags": [
+      "child",
+      "nutrition",
+      "pregnant",
+      "women",
+      "central scheme",
+      "anganwadi"
+    ]
+  },
+  {
+    "scheme_name": "Mid-Day Meal Scheme",
+    "ministry": "Ministry of Education",
+    "state": "Central",
+    "description": "Free cooked meals to children in government and government-aided schools from Class 1 to 8.",
+    "eligibility": "All children enrolled in government and government-aided schools Classes 1-8.",
+    "benefits": "Free nutritious mid-day meal on all school days",
+    "application_process": "Automatic for enrolled students in eligible schools",
+    "url": "https://mdm.nic.in",
+    "tags": [
+      "student",
+      "nutrition",
+      "school",
+      "central scheme",
+      "food"
+    ]
+  },
+  {
+    "scheme_name": "Integrated Child Development Services",
+    "ministry": "Ministry of Women and Child Development",
+    "state": "Central",
+    "description": "Provides food, preschool education, primary healthcare, immunization, health checkup, referral services to children under 6 and pregnant/nursing mothers.",
+    "eligibility": "Children 0-6 years, pregnant women, lactating mothers, adolescent girls.",
+    "benefits": "Supplementary nutrition, immunization, health education, preschool education",
+    "application_process": "Visit nearest Anganwadi center",
+    "url": "https://wcd.nic.in/icds",
+    "tags": [
+      "child",
+      "nutrition",
+      "pregnant",
+      "anganwadi",
+      "central scheme"
+    ]
+  },
+  {
+    "scheme_name": "PM Jan Dhan Yojana",
+    "ministry": "Ministry of Finance",
+    "state": "Central",
+    "description": "Financial inclusion program ensuring access to financial services - savings account, remittance, credit, insurance, pension.",
+    "eligibility": "Any Indian citizen without a bank account.",
+    "benefits": "Zero balance bank account, RuPay debit card, ₹1 lakh accident insurance, ₹30,000 life cover",
+    "application_process": "Visit any bank branch with Aadhaar or other KYC documents",
+    "url": "https://pmjdy.gov.in",
+    "tags": [
+      "bank account",
+      "financial inclusion",
+      "central scheme",
+      "insurance"
+    ]
+  },
+  {
+    "scheme_name": "Swachh Bharat Mission (Rural)",
+    "ministry": "Ministry of Jal Shakti",
+    "state": "Central",
+    "description": "Financial incentive for construction of individual household toilets for BPL and identified APL families.",
+    "eligibility": "Households without toilet. Priority to BPL, SC/ST, small and marginal farmers, landless laborers.",
+    "benefits": "₹12,000 incentive for toilet construction",
+    "application_process": "Apply at Gram Panchayat",
+    "url": "https://sbm.gov.in",
+    "tags": [
+      "sanitation",
+      "toilet",
+      "rural",
+      "BPL",
+      "central scheme"
+    ]
+  },
+  {
+    "scheme_name": "Jal Jeevan Mission",
+    "ministry": "Ministry of Jal Shakti",
+    "state": "Central",
+    "description": "Provides safe and adequate drinking water through household tap connections to every rural household.",
+    "eligibility": "All rural households without piped water connection.",
+    "benefits": "Functional household tap connection with potable water",
+    "application_process": "Contact Gram Panchayat or local water supply authority",
+    "url": "https://jaljeevanmission.gov.in",
+    "tags": [
+      "water",
+      "rural",
+      "central scheme",
+      "drinking water"
+    ]
+  },
+  {
+    "scheme_name": "PM Ujjwala Yojana 2.0",
+    "ministry": "Ministry of Petroleum",
+    "state": "Central",
+    "description": "Extended version of Ujjwala Yojana covering migrant workers and providing free LPG connection with first refill.",
+    "eligibility": "Adult women from poor households not having LPG connection, including migrant workers.",
+    "benefits": "Free LPG connection, first refill free, stove free",
+    "application_process": "Apply at nearest LPG distributor",
+    "url": "https://www.pmujjwalayojana.com",
+    "tags": [
+      "women",
+      "cooking gas",
+      "LPG",
+      "central scheme",
+      "migrant"
+    ]
+  },
+  {
+    "scheme_name": "National Urban Livelihood Mission",
+    "ministry": "Ministry of Housing and Urban Affairs",
+    "state": "Central",
+    "description": "Poverty alleviation program for urban poor through self-employment, skill training, and credit support.",
+    "eligibility": "Urban poor families with annual income below poverty line.",
+    "benefits": "Skill training, credit support, SHG formation, shelter for homeless",
+    "application_process": "Apply at nearest Urban Local Body office",
+    "url": "https://nulm.gov.in",
+    "tags": [
+      "urban poor",
+      "skill",
+      "livelihood",
+      "SHG",
+      "central scheme"
+    ]
+  },
+  {
+    "scheme_name": "e-Shram Portal",
+    "ministry": "Ministry of Labour and Employment",
+    "state": "Central",
+    "description": "National database of unorganized workers providing them with identity, insurance, and access to social security schemes.",
+    "eligibility": "Unorganized sector workers aged 16-59 years not covered under EPFO/ESIC.",
+    "benefits": "Unique identity, ₹2 lakh accident insurance, access to social security schemes",
+    "application_process": "Self-register at eshram.gov.in or nearest CSC",
+    "url": "https://eshram.gov.in",
+    "tags": [
+      "unorganized worker",
+      "identity",
+      "insurance",
+      "central scheme"
+    ]
+  },
+  {
+    "scheme_name": "Kerala Snehapoorvam Scholarship",
+    "ministry": "Social Justice Department, Kerala",
+    "state": "Kerala",
+    "description": "Scholarship for children who have lost one or both parents to continue education without financial hardship.",
+    "eligibility": "Children who have lost father or both parents, studying in Classes 1-12 in Kerala.",
+    "benefits": "Annual scholarship ₹4,800 to ₹7,200 depending on class",
+    "application_process": "Apply through school with death certificate of parent",
+    "url": "https://socialjustice.kerala.gov.in",
+    "tags": [
+      "student",
+      "Kerala",
+      "orphan",
+      "scholarship",
+      "education"
+    ]
+  },
+  {
+    "scheme_name": "Kerala Vayomithram",
+    "ministry": "Social Justice Department, Kerala",
+    "state": "Kerala",
+    "description": "Home-based care services for elderly persons above 60 years who are bedridden or lonely.",
+    "eligibility": "Senior citizens above 60 years in Kerala who are bedridden, differently-abled, or living alone.",
+    "benefits": "Free home healthcare visits, physiotherapy, counseling, palliative care",
+    "application_process": "Apply at nearest District Social Justice Office",
+    "url": "https://socialjustice.kerala.gov.in",
+    "tags": [
+      "elderly",
+      "Kerala",
+      "healthcare",
+      "home care",
+      "senior citizen"
+    ]
+  },
+  {
+    "scheme_name": "Kerala Arogya Keralam",
+    "ministry": "Health Department, Kerala",
+    "state": "Kerala",
+    "description": "Comprehensive primary healthcare through network of family health centers providing preventive and curative services.",
+    "eligibility": "All residents of Kerala.",
+    "benefits": "Free primary healthcare, medicines, diagnostic services at government centers",
+    "application_process": "Visit nearest Family Health Centre with Aadhaar",
+    "url": "https://arogyakerala.gov.in",
+    "tags": [
+      "health",
+      "Kerala",
+      "primary healthcare",
+      "free medicine"
+    ]
+  },
+  {
+    "scheme_name": "Tamil Nadu Amma Unavagam",
+    "ministry": "Tamil Nadu Government",
+    "state": "Tamil Nadu",
+    "description": "Subsidized canteen scheme providing nutritious meals at highly subsidized rates to urban poor and workers.",
+    "eligibility": "Any person can avail. Located at major public spaces.",
+    "benefits": "Breakfast for ₹3, meals for ₹5-10",
+    "application_process": "Walk-in at nearest Amma Unavagam canteen",
+    "url": "https://www.tn.gov.in",
+    "tags": [
+      "food",
+      "Tamil Nadu",
+      "urban poor",
+      "subsidized meal",
+      "worker"
+    ]
+  },
+  {
+    "scheme_name": "Andhra Pradesh Jagananna Vidya Kanuka",
+    "ministry": "School Education, Andhra Pradesh",
+    "state": "Andhra Pradesh",
+    "description": "Provides school kit including uniforms, books, bags, shoes to government school students.",
+    "eligibility": "Students studying in government schools in Andhra Pradesh.",
+    "benefits": "Complete school kit worth ₹3,475 per student",
+    "application_process": "Automatically provided through school enrollment",
+    "url": "https://schooledu.ap.gov.in",
+    "tags": [
+      "student",
+      "Andhra Pradesh",
+      "education",
+      "free materials",
+      "school"
+    ]
+  },
+  {
+    "scheme_name": "Maharashtra Balasangopan Yojana",
+    "ministry": "Women and Child Development, Maharashtra",
+    "state": "Maharashtra",
+    "description": "Monthly financial assistance for care of children of single parents, widows, and destitute women.",
+    "eligibility": "Children of single mothers, widows, or women in distress with income below ₹75,000.",
+    "benefits": "₹1,100 per month per child",
+    "application_process": "Apply at District Women and Child Development Office",
+    "url": "https://womenchild.maharashtra.gov.in",
+    "tags": [
+      "child welfare",
+      "Maharashtra",
+      "single parent",
+      "widow",
+      "financial assistance"
+    ]
+  },
+  {
+    "scheme_name": "Karnataka Anna Bhagya",
+    "ministry": "Food and Civil Supplies, Karnataka",
+    "state": "Karnataka",
+    "description": "Provides additional 5 kg rice per month free to BPL ration card holders over and above NFSA entitlement.",
+    "eligibility": "BPL ration card holders in Karnataka.",
+    "benefits": "5 kg additional free rice per person per month",
+    "application_process": "Collect from nearest fair price shop with ration card",
+    "url": "https://ahara.kar.nic.in",
+    "tags": [
+      "food",
+      "Karnataka",
+      "BPL",
+      "ration",
+      "rice"
+    ]
+  },
+  {
+    "scheme_name": "Haryana Mukhyamantri Vivah Shagun Yojana",
+    "ministry": "Social Justice, Haryana",
+    "state": "Central",
+    "description": "Financial assistance for marriage of daughters from SC/ST, BPL, and widow families.",
+    "eligibility": "SC/ST, BPL families and widows in Haryana for marriage of daughter.",
+    "benefits": "₹51,000 marriage assistance",
+    "application_process": "Apply at District Social Justice Office",
+    "url": "https://socialjusticehry.gov.in",
+    "tags": [
+      "marriage",
+      "SC/ST",
+      "BPL",
+      "widow",
+      "women",
+      "financial assistance"
+    ]
+  },
+  {
+    "scheme_name": "Gujarat Manav Garima Yojana",
+    "ministry": "Social Justice, Gujarat",
+    "state": "Gujarat",
+    "description": "Tool kit assistance to SC artisans and traditional workers to upgrade their occupation and income.",
+    "eligibility": "SC artisans and traditional workers in Gujarat with family income below ₹1.20 lakh.",
+    "benefits": "Tool kit worth ₹4,000 for 27 types of occupations",
+    "application_process": "Apply at District Social Justice Office",
+    "url": "https://sje.gujarat.gov.in",
+    "tags": [
+      "SC",
+      "artisan",
+      "Gujarat",
+      "skill",
+      "tool kit"
+    ]
+  },
+  {
+    "scheme_name": "Rajasthan Anuprati Coaching Yojana",
+    "ministry": "Social Justice, Rajasthan",
+    "state": "Rajasthan",
+    "description": "Free coaching for competitive examinations like UPSC, RPSC, RSMSSB for SC/ST/OBC/EBC students.",
+    "eligibility": "SC/ST/OBC/EBC/EWS students with family income below ₹8 lakh for competitive exam coaching.",
+    "benefits": "Free coaching for UPSC/RPSC/engineering/medical entrance exams with stipend",
+    "application_process": "Apply at sje.rajasthan.gov.in",
+    "url": "https://sje.rajasthan.gov.in",
+    "tags": [
+      "student",
+      "Rajasthan",
+      "SC/ST",
+      "OBC",
+      "coaching",
+      "competitive exam"
+    ]
+  },
+  {
+    "scheme_name": "Odisha Madhubabu Pension Yojana",
+    "ministry": "Social Security, Odisha",
+    "state": "Odisha",
+    "description": "Old age, disability, widow, and unmarried women pension scheme for BPL households.",
+    "eligibility": "BPL elderly above 60, disabled above 5 years, widows above 40, unmarried women above 45 in Odisha.",
+    "benefits": "₹500 per month pension",
+    "application_process": "Apply at Block Development Office",
+    "url": "https://ssepd.gov.in",
+    "tags": [
+      "pension",
+      "Odisha",
+      "elderly",
+      "widow",
+      "disabled",
+      "BPL"
+    ]
+  },
+  {
+    "scheme_name": "Assam Arunodoi 2.0",
+    "ministry": "Assam Government",
+    "state": "Assam",
+    "description": "Enhanced monthly financial assistance for vulnerable families deposited in women's bank accounts.",
+    "eligibility": "BPL and low-income families in Assam.",
+    "benefits": "₹1,250 per month deposited in woman member's account",
+    "application_process": "Apply at Gram Panchayat or Town Committee",
+    "url": "https://assam.gov.in",
+    "tags": [
+      "women",
+      "Assam",
+      "income support",
+      "BPL"
+    ]
+  },
+  {
+    "scheme_name": "West Bengal Rupashree Prakalpa",
+    "ministry": "West Bengal Government",
+    "state": "West Bengal",
+    "description": "One-time financial assistance of ₹25,000 for marriage of women from economically weaker sections.",
+    "eligibility": "Women above 18 years from families with annual income below ₹1.5 lakh in West Bengal.",
+    "benefits": "₹25,000 one-time marriage assistance",
+    "application_process": "Apply at Block Development Office or municipality",
+    "url": "https://wb.gov.in",
+    "tags": [
+      "marriage",
+      "West Bengal",
+      "women",
+      "financial assistance",
+      "EWS"
+    ]
+  },
+  {
+    "scheme_name": "Himachal Pradesh Him Care",
+    "ministry": "Health Department, Himachal Pradesh",
+    "state": "Himachal Pradesh",
+    "description": "Health insurance scheme for HP residents not covered under PMJAY providing cashless treatment up to ₹5 lakh.",
+    "eligibility": "HP residents not covered under Ayushman Bharat PM-JAY.",
+    "benefits": "Cashless treatment up to ₹5 lakh per year",
+    "application_process": "Enroll at nearest CSC or himcare.hp.gov.in",
+    "url": "https://himcare.hp.gov.in",
+    "tags": [
+      "health",
+      "Himachal Pradesh",
+      "insurance",
+      "cashless"
+    ]
+  },
+  {
+    "scheme_name": "Uttarakhand Vatsalya Yojana",
+    "ministry": "Women and Child Development, Uttarakhand",
+    "state": "Central",
+    "description": "Financial support to single mothers for raising children and ensuring their education.",
+    "eligibility": "Single mothers in Uttarakhand with children below 18 years.",
+    "benefits": "Monthly financial assistance for child education and welfare",
+    "application_process": "Apply at District Women and Child Development Office",
+    "url": "https://uk.gov.in",
+    "tags": [
+      "single parent",
+      "women",
+      "child welfare",
+      "education",
+      "financial assistance"
+    ]
+  },
+  {
+    "scheme_name": "PM Vaya Vandana Yojana",
+    "ministry": "Ministry of Finance",
+    "state": "Central",
+    "description": "Pension scheme for senior citizens providing assured return of 7.4% per annum with monthly pension option.",
+    "eligibility": "Senior citizens above 60 years.",
+    "benefits": "Assured pension of 7.4% per annum on investment up to ₹15 lakh",
+    "application_process": "Purchase from LIC of India branches or online at licindia.in",
+    "url": "https://www.licindia.in",
+    "tags": [
+      "pension",
+      "elderly",
+      "senior citizen",
+      "investment",
+      "central scheme"
+    ]
+  },
+  {
+    "scheme_name": "National Handicapped Finance Development Corporation",
+    "ministry": "Ministry of Social Justice",
+    "state": "Central",
+    "description": "Financial assistance and loans for disabled persons for self-employment and income generation.",
+    "eligibility": "Disabled persons with 40% or more disability for income generation activities.",
+    "benefits": "Loans up to ₹50 lakh at 5% interest for self-employment",
+    "application_process": "Apply at NHFDC or through channelizing agencies",
+    "url": "https://www.nhfdc.nic.in",
+    "tags": [
+      "disabled",
+      "loan",
+      "self employment",
+      "central scheme"
+    ]
+  },
+  {
+    "scheme_name": "Widow Remarriage Scheme",
+    "ministry": "Ministry of Women and Child Development",
+    "state": "Central",
+    "description": "Financial incentive for widow remarriage to reduce social stigma and promote second marriage.",
+    "eligibility": "Widows remarrying. Varies by state.",
+    "benefits": "Financial incentive ₹2-3 lakh depending on state",
+    "application_process": "Apply at State Social Welfare Department",
+    "url": "https://wcd.nic.in",
+    "tags": [
+      "widow",
+      "remarriage",
+      "women",
+      "central scheme"
+    ]
+  },
+  {
+    "scheme_name": "Kerala Minority Welfare Scholarship",
+    "ministry": "Minority Welfare Department, Kerala",
+    "state": "Kerala",
+    "description": "Pre-matric and post-matric scholarships for minority community students in Kerala.",
+    "eligibility": "Students from Muslim, Christian, Sikh, Buddhist, Jain communities in Kerala with family income below ₹2 lakh.",
+    "benefits": "Scholarship ₹5,000 to ₹10,000 per year",
+    "application_process": "Apply at minoritywelfare.kerala.gov.in",
+    "url": "https://minoritywelfare.kerala.gov.in",
+    "tags": [
+      "student",
+      "Kerala",
+      "minority",
+      "scholarship",
+      "education"
+    ]
+  },
+  {
+    "scheme_name": "Kerala SC Development Corporation Loan",
+    "ministry": "SC Development Department, Kerala",
+    "state": "Kerala",
+    "description": "Low-interest loans for SC individuals for self-employment, education, and housing.",
+    "eligibility": "SC individuals in Kerala with annual income below ₹3 lakh.",
+    "benefits": "Loans at 4-6% interest for self-employment and education",
+    "application_process": "Apply at nearest KSCDC office",
+    "url": "https://kscdc.net",
+    "tags": [
+      "SC",
+      "Kerala",
+      "loan",
+      "self employment",
+      "education"
+    ]
+  },
+  {
+    "scheme_name": "Tamil Nadu Thozhilalar Unavagam",
+    "ministry": "Labour Department, Tamil Nadu",
+    "state": "Tamil Nadu",
+    "description": "Subsidized canteen for workers and daily wage laborers providing affordable nutritious meals.",
+    "eligibility": "Workers, laborers, and low-income urban residents.",
+    "benefits": "Breakfast ₹5, lunch and dinner ₹10",
+    "application_process": "Walk-in at nearest Thozhilalar Unavagam",
+    "url": "https://www.tn.gov.in",
+    "tags": [
+      "worker",
+      "Tamil Nadu",
+      "food",
+      "subsidized meal",
+      "labor"
+    ]
+  },
+  {
+    "scheme_name": "PM Annadata Aay Sanrakshan Abhiyan",
+    "ministry": "Ministry of Agriculture",
+    "state": "Central",
+    "description": "Umbrella scheme to support farmers get remunerative prices for their produce through MSP operations.",
+    "eligibility": "Farmers growing MSP crops.",
+    "benefits": "Assured MSP procurement for notified crops",
+    "application_process": "Register with APMC or State procurement agency",
+    "url": "https://agriculture.gov.in",
+    "tags": [
+      "farmer",
+      "MSP",
+      "agriculture",
+      "central scheme",
+      "price support"
+    ]
+  },
+  {
+    "scheme_name": "Kisan Credit Card",
+    "ministry": "Ministry of Agriculture",
+    "state": "Central",
+    "description": "Credit card for farmers providing flexible credit for agricultural needs at subsidized interest rates.",
+    "eligibility": "All farmers, sharecroppers, tenant farmers, and self-help groups of farmers.",
+    "benefits": "Credit up to ₹3 lakh at 4% interest, crop insurance coverage",
+    "application_process": "Apply at nearest bank with land records",
+    "url": "https://pmkisan.gov.in/kcc",
+    "tags": [
+      "farmer",
+      "credit",
+      "agriculture",
+      "central scheme",
+      "loan"
+    ]
+  },
+  {
+    "scheme_name": "Uttar Pradesh Kanya Sumangala Yojana",
+    "ministry": "Women and Child Development, UP",
+    "state": "Uttar Pradesh",
+    "description": "Financial incentive scheme for girl child in 6 stages from birth to graduation to promote girl child welfare and education.",
+    "eligibility": "Girl child born on or after April 1, 2019 from families with annual income below ₹3 lakh in UP.",
+    "benefits": "Total ₹15,000 given in 6 installments from birth to Class 12",
+    "application_process": "Apply at mksy.up.gov.in or nearest SDM office",
+    "url": "https://mksy.up.gov.in",
+    "tags": [
+      "girl child",
+      "Uttar Pradesh",
+      "education",
+      "scholarship",
+      "incentive"
+    ]
+  },
+  {
+    "scheme_name": "UP Mukhyamantri Kisan Sarvhit Bima Yojana",
+    "ministry": "Agriculture Department, UP",
+    "state": "Uttar Pradesh",
+    "description": "Accident insurance of ₹5 lakh for farmers and their family members in Uttar Pradesh.",
+    "eligibility": "Farmers aged 18-70 years in UP with landholding.",
+    "benefits": "₹5 lakh accident insurance, free treatment up to ₹2.5 lakh",
+    "application_process": "Apply at nearest district agriculture office",
+    "url": "https://upagripardarshi.gov.in",
+    "tags": [
+      "farmer",
+      "Uttar Pradesh",
+      "insurance",
+      "accident"
+    ]
+  },
+  {
+    "scheme_name": "UP Samajwadi Pension Yojana",
+    "ministry": "Social Welfare, UP",
+    "state": "Uttar Pradesh",
+    "description": "Monthly pension for BPL elderly, disabled, and widows in Uttar Pradesh.",
+    "eligibility": "BPL elderly above 60, disabled persons, and widows in UP.",
+    "benefits": "₹500 per month pension",
+    "application_process": "Apply at nearest Block Development Office",
+    "url": "https://sspy-up.gov.in",
+    "tags": [
+      "pension",
+      "Uttar Pradesh",
+      "elderly",
+      "widow",
+      "disabled",
+      "BPL"
+    ]
+  },
+  {
+    "scheme_name": "Delhi Mukhyamantri Mahila Samman Yojana",
+    "ministry": "Delhi Government",
+    "state": "Delhi",
+    "description": "Monthly financial assistance of ₹1,000 to women residents of Delhi.",
+    "eligibility": "Women above 18 years who are registered voters in Delhi.",
+    "benefits": "₹1,000 per month direct benefit transfer",
+    "application_process": "Apply through Delhi government portal or nearest office",
+    "url": "https://delhi.gov.in",
+    "tags": [
+      "women",
+      "Delhi",
+      "income support",
+      "cash transfer"
+    ]
+  },
+  {
+    "scheme_name": "Delhi Free Bus Travel for Women",
+    "ministry": "Transport Department, Delhi",
+    "state": "Delhi",
+    "description": "Free travel for women in all DTC and cluster buses in Delhi.",
+    "eligibility": "All women travelling in DTC and cluster buses in Delhi.",
+    "benefits": "Free bus travel in all DTC and cluster buses",
+    "application_process": "Obtain pink ticket from bus conductor",
+    "url": "https://delhi.gov.in",
+    "tags": [
+      "women",
+      "Delhi",
+      "transport",
+      "free travel"
+    ]
+  },
+  {
+    "scheme_name": "Delhi Rozgar Bazaar",
+    "ministry": "Delhi Government",
+    "state": "Delhi",
+    "description": "Online job portal connecting job seekers with employers across Delhi NCR.",
+    "eligibility": "Job seekers in Delhi of any educational qualification.",
+    "benefits": "Free job matching, skill development guidance, placement support",
+    "application_process": "Register at jobsnearme.in",
+    "url": "https://jobsnearme.in",
+    "tags": [
+      "employment",
+      "Delhi",
+      "job",
+      "youth",
+      "skill"
+    ]
+  },
+  {
+    "scheme_name": "Uttarakhand Mukhyamantri Mahila Sashaktikaran Yojana",
+    "ministry": "Women Welfare, Uttarakhand",
+    "state": "Uttarakhand",
+    "description": "Financial assistance and skill training for women-headed households in Uttarakhand.",
+    "eligibility": "Women heads of household in Uttarakhand with income below poverty line.",
+    "benefits": "Skill training, financial assistance for self-employment",
+    "application_process": "Apply at District Women Welfare Office",
+    "url": "https://uk.gov.in",
+    "tags": [
+      "women",
+      "Uttarakhand",
+      "skill",
+      "self employment"
+    ]
+  },
+  {
+    "scheme_name": "Uttarakhand Vridha Pension Yojana",
+    "ministry": "Social Welfare, Uttarakhand",
+    "state": "Uttarakhand",
+    "description": "Monthly pension for elderly persons above 60 years in Uttarakhand.",
+    "eligibility": "Residents above 60 years in Uttarakhand with annual income below ₹48,000.",
+    "benefits": "₹1,200 per month pension",
+    "application_process": "Apply at nearest Block Development Office",
+    "url": "https://ssp.uk.gov.in",
+    "tags": [
+      "pension",
+      "Uttarakhand",
+      "elderly",
+      "old age"
+    ]
+  },
+  {
+    "scheme_name": "Haryana Chirayu Yojana",
+    "ministry": "Health Department, Haryana",
+    "state": "Haryana",
+    "description": "Health insurance coverage up to ₹5 lakh for families not covered under Ayushman Bharat.",
+    "eligibility": "Haryana residents with annual income below ₹1.80 lakh not covered under PMJAY.",
+    "benefits": "Cashless treatment up to ₹5 lakh per year",
+    "application_process": "Enroll at nearest government hospital or CSC",
+    "url": "https://health.haryana.gov.in",
+    "tags": [
+      "health",
+      "Haryana",
+      "insurance",
+      "cashless"
+    ]
+  },
+  {
+    "scheme_name": "Haryana Kaushal Rozgar Nigam",
+    "ministry": "Skill Development, Haryana",
+    "state": "Haryana",
+    "description": "Outsourced government jobs portal providing transparent contractual employment to youth in government departments.",
+    "eligibility": "Haryana domicile youth seeking government contractual employment.",
+    "benefits": "Transparent job placement in government departments",
+    "application_process": "Register at hkrnl.itiharyana.gov.in",
+    "url": "https://hkrnl.itiharyana.gov.in",
+    "tags": [
+      "employment",
+      "Haryana",
+      "youth",
+      "government job"
+    ]
+  },
+  {
+    "scheme_name": "Chhattisgarh Rajiv Gandhi Kisan Nyay Yojana",
+    "ministry": "Agriculture Department, Chhattisgarh",
+    "state": "Chhattisgarh",
+    "description": "Input subsidy to paddy, maize, and sugarcane farmers at ₹9,000 per acre per year.",
+    "eligibility": "Paddy, maize, and sugarcane farmers in Chhattisgarh.",
+    "benefits": "₹9,000 per acre annual input subsidy",
+    "application_process": "Register with Cooperative Society or Agriculture Department",
+    "url": "https://agri.cg.gov.in",
+    "tags": [
+      "farmer",
+      "Chhattisgarh",
+      "agriculture",
+      "subsidy"
+    ]
+  },
+  {
+    "scheme_name": "Chhattisgarh Dhan Lakshmi Yojana",
+    "ministry": "Women and Child Development, CG",
+    "state": "Chhattisgarh",
+    "description": "Conditional cash transfer for girl child covering birth registration, immunization, school enrollment, and marriage at 18.",
+    "eligibility": "Girl child born in Chhattisgarh from BPL families.",
+    "benefits": "Total ₹1 lakh in installments tied to education and health milestones",
+    "application_process": "Register at nearest Anganwadi center at birth",
+    "url": "https://cgwcd.gov.in",
+    "tags": [
+      "girl child",
+      "Chhattisgarh",
+      "education",
+      "health",
+      "incentive"
+    ]
+  },
+  {
+    "scheme_name": "Goa Dayanand Social Security Scheme",
+    "ministry": "Social Welfare, Goa",
+    "state": "Goa",
+    "description": "Monthly financial assistance for elderly, disabled, widows, and destitute persons in Goa.",
+    "eligibility": "Goa residents who are elderly above 60, disabled, widows, or destitute with income below ₹3 lakh.",
+    "benefits": "₹2,500 to ₹3,000 per month depending on category",
+    "application_process": "Apply at nearest Mamlatdar office",
+    "url": "https://www.goa.gov.in",
+    "tags": [
+      "pension",
+      "Goa",
+      "elderly",
+      "widow",
+      "disabled",
+      "destitute"
+    ]
+  },
+  {
+    "scheme_name": "Goa Ladli Laxmi Scheme",
+    "ministry": "Women and Child Development, Goa",
+    "state": "Goa",
+    "description": "Financial incentive for families with two girl children to promote girl child welfare.",
+    "eligibility": "Families with two girl children in Goa.",
+    "benefits": "₹1 lakh fixed deposit at birth of second girl child",
+    "application_process": "Apply at nearest ICDS office",
+    "url": "https://www.goa.gov.in",
+    "tags": [
+      "girl child",
+      "Goa",
+      "incentive",
+      "financial assistance"
+    ]
+  },
+  {
+    "scheme_name": "Jammu & Kashmir Back to Village Programme",
+    "ministry": "J&K Government",
+    "state": "Jammu & Kashmir",
+    "description": "Grassroots development program connecting government officials with panchayats to identify and address local needs.",
+    "eligibility": "All residents of Jammu & Kashmir.",
+    "benefits": "On-spot delivery of government services, scheme enrollment support",
+    "application_process": "Participate during B2V camps in your panchayat",
+    "url": "https://jk.gov.in",
+    "tags": [
+      "J&K",
+      "rural development",
+      "government services"
+    ]
+  },
+  {
+    "scheme_name": "J&K Mumkin Scheme",
+    "ministry": "Social Welfare, J&K",
+    "state": "Jammu & Kashmir",
+    "description": "Financial assistance and skill training for differently-abled persons in J&K for self-employment.",
+    "eligibility": "Differently-abled persons in J&K with 40% or more disability.",
+    "benefits": "Skill training, financial assistance up to ₹50,000 for self-employment",
+    "application_process": "Apply at District Social Welfare Office",
+    "url": "https://jksocialwelfare.nic.in",
+    "tags": [
+      "disabled",
+      "J&K",
+      "skill",
+      "self employment",
+      "financial assistance"
+    ]
+  },
+  {
+    "scheme_name": "Manipur Chief Minister's Sanitation Mission",
+    "ministry": "Manipur Government",
+    "state": "Manipur",
+    "description": "Provides toilet construction support and sanitation facilities to households in Manipur.",
+    "eligibility": "Households in Manipur without proper sanitation facilities.",
+    "benefits": "₹12,000 assistance for toilet construction",
+    "application_process": "Apply at nearest Gram Panchayat or Urban Local Body",
+    "url": "https://manipur.gov.in",
+    "tags": [
+      "sanitation",
+      "Manipur",
+      "toilet",
+      "rural",
+      "housing"
+    ]
+  },
+  {
+    "scheme_name": "Manipur CM-COCOON Scheme",
+    "ministry": "Industries Department, Manipur",
+    "state": "Manipur",
+    "description": "Support for sericulture and handloom weavers in Manipur for skill development and market linkage.",
+    "eligibility": "Weavers and sericulture farmers in Manipur.",
+    "benefits": "Free training, equipment support, market linkage assistance",
+    "application_process": "Apply at District Industries Centre",
+    "url": "https://manipur.gov.in",
+    "tags": [
+      "weaver",
+      "Manipur",
+      "sericulture",
+      "skill",
+      "livelihood"
+    ]
+  },
+  {
+    "scheme_name": "Meghalaya Chief Minister's Social Security Scheme",
+    "ministry": "Social Welfare, Meghalaya",
+    "state": "Meghalaya",
+    "description": "Pension and financial assistance for elderly, widows, and disabled persons in Meghalaya.",
+    "eligibility": "BPL elderly above 60, widows, and disabled persons in Meghalaya.",
+    "benefits": "₹400-600 per month pension",
+    "application_process": "Apply at Block Development Office",
+    "url": "https://meghalaya.gov.in",
+    "tags": [
+      "pension",
+      "Meghalaya",
+      "elderly",
+      "widow",
+      "disabled",
+      "BPL"
+    ]
+  },
+  {
+    "scheme_name": "Meghalaya FOCUS Scheme",
+    "ministry": "Agriculture, Meghalaya",
+    "state": "Meghalaya",
+    "description": "Farmer-oriented scheme providing agricultural inputs, tools, and training to improve productivity.",
+    "eligibility": "Farmers in Meghalaya with agricultural land.",
+    "benefits": "Free seeds, fertilizers, tools, and training",
+    "application_process": "Apply at Block Agriculture Office",
+    "url": "https://meghalaya.gov.in",
+    "tags": [
+      "farmer",
+      "Meghalaya",
+      "agriculture",
+      "subsidy"
+    ]
+  },
+  {
+    "scheme_name": "Tripura Mukhyamantri Samajik Sahayata Prakalpa",
+    "ministry": "Social Welfare, Tripura",
+    "state": "Tripura",
+    "description": "Social security pension for elderly, widows, and disabled persons in Tripura.",
+    "eligibility": "BPL elderly above 60, widows above 40, and disabled persons in Tripura.",
+    "benefits": "₹2,000 per month pension",
+    "application_process": "Apply at Block Development Office or District Social Welfare Office",
+    "url": "https://tripura.gov.in",
+    "tags": [
+      "pension",
+      "Tripura",
+      "elderly",
+      "widow",
+      "disabled",
+      "BPL"
+    ]
+  },
+  {
+    "scheme_name": "Tripura Tribal Welfare Scheme",
+    "ministry": "Tribal Welfare, Tripura",
+    "state": "Tripura",
+    "description": "Educational scholarships, vocational training, and housing support for tribal communities in Tripura.",
+    "eligibility": "ST community members in Tripura.",
+    "benefits": "Scholarship, housing assistance, vocational training",
+    "application_process": "Apply at Tribal Welfare Office",
+    "url": "https://ttaadc.gov.in",
+    "tags": [
+      "ST",
+      "tribal",
+      "Tripura",
+      "scholarship",
+      "housing"
+    ]
+  },
+  {
+    "scheme_name": "Nagaland Chief Minister's Health Insurance Scheme",
+    "ministry": "Health Department, Nagaland",
+    "state": "Nagaland",
+    "description": "Health insurance coverage for BPL families in Nagaland for hospitalization expenses.",
+    "eligibility": "BPL families in Nagaland.",
+    "benefits": "Cashless treatment up to ₹1 lakh per year",
+    "application_process": "Enroll at nearest district hospital",
+    "url": "https://nagaland.gov.in",
+    "tags": [
+      "health",
+      "Nagaland",
+      "insurance",
+      "BPL",
+      "cashless"
+    ]
+  },
+  {
+    "scheme_name": "Nagaland Livelihood Improvement Project",
+    "ministry": "Rural Development, Nagaland",
+    "state": "Nagaland",
+    "description": "Support for rural communities through SHG formation, livelihood training, and micro-enterprise development.",
+    "eligibility": "Rural poor households in Nagaland especially women.",
+    "benefits": "SHG seed funding, skill training, micro-enterprise support",
+    "application_process": "Join nearest SHG or contact Block Development Office",
+    "url": "https://nagaland.gov.in",
+    "tags": [
+      "rural",
+      "Nagaland",
+      "SHG",
+      "women",
+      "livelihood"
+    ]
+  },
+  {
+    "scheme_name": "Mizoram Chief Minister's Social Security Scheme",
+    "ministry": "Social Welfare, Mizoram",
+    "state": "Mizoram",
+    "description": "Monthly financial assistance to elderly, widows, and disabled persons in Mizoram.",
+    "eligibility": "Elderly above 60, widows, and disabled persons in Mizoram with BPL status.",
+    "benefits": "₹500 per month financial assistance",
+    "application_process": "Apply at District Social Welfare Office",
+    "url": "https://mizoram.gov.in",
+    "tags": [
+      "pension",
+      "Mizoram",
+      "elderly",
+      "widow",
+      "disabled"
+    ]
+  },
+  {
+    "scheme_name": "Mizoram New Land Use Policy",
+    "ministry": "Agriculture, Mizoram",
+    "state": "Mizoram",
+    "description": "Agricultural development scheme replacing shifting cultivation with sustainable farming practices and income support.",
+    "eligibility": "Farmers in Mizoram practising Jhum cultivation.",
+    "benefits": "Alternative crop support, training, and income supplement",
+    "application_process": "Contact District Agriculture Office",
+    "url": "https://mizoram.gov.in",
+    "tags": [
+      "farmer",
+      "Mizoram",
+      "agriculture",
+      "sustainable farming"
+    ]
+  },
+  {
+    "scheme_name": "Sikkim CM Sukh-Aashray Sahayata Kosh",
+    "ministry": "Social Welfare, Sikkim",
+    "state": "Sikkim",
+    "description": "Financial assistance for vulnerable persons in Sikkim including elderly, disabled, and destitute.",
+    "eligibility": "Elderly above 60, disabled, and destitute persons in Sikkim.",
+    "benefits": "Monthly financial assistance ₹2,000-3,500",
+    "application_process": "Apply at District Social Welfare Office",
+    "url": "https://sikkim.gov.in",
+    "tags": [
+      "pension",
+      "Sikkim",
+      "elderly",
+      "disabled",
+      "destitute"
+    ]
+  },
+  {
+    "scheme_name": "Sikkim Organic Farming Mission",
+    "ministry": "Agriculture, Sikkim",
+    "state": "Sikkim",
+    "description": "Support for organic farming practices with subsidies on organic inputs, certification, and market linkage.",
+    "eligibility": "All farmers in Sikkim transitioning to organic farming.",
+    "benefits": "Free organic inputs, certification support, market linkage",
+    "application_process": "Apply at District Agriculture Office",
+    "url": "https://sikkim.gov.in",
+    "tags": [
+      "farmer",
+      "Sikkim",
+      "organic farming",
+      "agriculture",
+      "subsidy"
+    ]
+  },
+  {
+    "scheme_name": "Arunachal Pradesh Chief Minister's Arogya Arunachal Yojana",
+    "ministry": "Health Department, Arunachal Pradesh",
+    "state": "Arunachal Pradesh",
+    "description": "Health insurance coverage for residents of Arunachal Pradesh for hospitalization.",
+    "eligibility": "All permanent residents of Arunachal Pradesh.",
+    "benefits": "Cashless treatment up to ₹5 lakh per year",
+    "application_process": "Enroll at nearest government hospital with domicile certificate",
+    "url": "https://arunachal.gov.in",
+    "tags": [
+      "health",
+      "Arunachal Pradesh",
+      "insurance",
+      "cashless"
+    ]
+  },
+  {
+    "scheme_name": "Arunachal Pradesh Horticulture Development Scheme",
+    "ministry": "Horticulture Department, AP",
+    "state": "Arunachal Pradesh",
+    "description": "Subsidy and support for farmers to develop horticulture crops like kiwi, apple, and orange.",
+    "eligibility": "Farmers in Arunachal Pradesh with suitable land for horticulture.",
+    "benefits": "50-75% subsidy on planting material, tools, and infrastructure",
+    "application_process": "Apply at District Horticulture Office",
+    "url": "https://arunachal.gov.in",
+    "tags": [
+      "farmer",
+      "Arunachal Pradesh",
+      "horticulture",
+      "subsidy",
+      "agriculture"
+    ]
   }
 ]
