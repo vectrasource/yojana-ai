@@ -704,7 +704,7 @@
   <!-- Loading -->
   <div class="loading" id="loadingDiv">
     <div class="spinner"></div>
-    <p>Searching across 1,000+ schemes...</p>
+    <p>Searching across 130+ schemes...</p>
     <small>(10–15 sec)</small>
   </div>
 
@@ -723,15 +723,15 @@
 <script>
 // Language config
 const langConfig = {
-  en: { placeholder: "e.g. I am a 32 year old farmer in Kerala with 2 acres of land...", greeting: "Available in 8 Indian languages", searchBtn: "🔍 Find My Schemes", loadingText: "Searching across 1,000+ schemes..." },
-  hi: { placeholder: "उदाहरण: मैं केरल में 32 साल का किसान हूं, 2 एकड़ जमीन है...", greeting: "8 भारतीय भाषाओं में उपलब्ध", searchBtn: "🔍 मेरी योजनाएं खोजें", loadingText: "1,000+ योजनाओं में खोज रहे हैं..." },
-  ml: { placeholder: "ഉദാ: ഞാൻ കേരളത്തിലെ 32 വയസ്സുള്ള ഒരു കർഷകനാണ്, 2 ഏക്കർ ഭൂമിയുണ്ട്...", greeting: "8 ഇന്ത്യൻ ഭാഷകളിൽ ലഭ്യം", searchBtn: "🔍 എന്റെ പദ്ധതികൾ കണ്ടെത്തുക", loadingText: "1,000+ പദ്ധതികളിൽ തിരയുന്നു..." },
-  ta: { placeholder: "எ.கா: நான் கேரளாவில் 32 வயது விவசாயி, 2 ஏக்கர் நிலம் உள்ளது...", greeting: "8 இந்திய மொழிகளில் கிடைக்கிறது", searchBtn: "🔍 என் திட்டங்களைக் கண்டறி", loadingText: "1,000+ திட்டங்களில் தேடுகிறோம்..." },
-  te: { placeholder: "ఉదా: నేను కేరళలో 32 ఏళ్ల రైతు, 2 ఎకరాల భూమి ఉంది...", greeting: "8 భారతీయ భాషలలో అందుబాటులో ఉంది", searchBtn: "🔍 నా పథకాలు కనుగొనండి", loadingText: "1,000+ పథకాలలో వెతుకుతున్నాం..." },
-  kn: { placeholder: "ಉದಾ: ನಾನು ಕೇರಳದಲ್ಲಿ 32 ವರ್ಷದ ರೈತ, 2 ಎಕರೆ ಭೂಮಿ ಇದೆ...", greeting: "8 ಭಾರತೀಯ ಭಾಷೆಗಳಲ್ಲಿ ಲಭ್ಯ", searchBtn: "🔍 ನನ್ನ ಯೋಜನೆಗಳನ್ನು ಹುಡುಕಿ", loadingText: "1,000+ ಯೋಜನೆಗಳಲ್ಲಿ ಹುಡುಕುತ್ತಿದ್ದೇವೆ..." },
+  en: { placeholder: "e.g. I am a 32 year old farmer in Kerala with 2 acres of land...", greeting: "Available in 8 Indian languages", searchBtn: "🔍 Find My Schemes", loadingText: "Searching across 130+ schemes..." },
+  hi: { placeholder: "उदाहरण: मैं केरल में 32 साल का किसान हूं, 2 एकड़ जमीन है...", greeting: "8 भारतीय भाषाओं में उपलब्ध", searchBtn: "🔍 मेरी योजनाएं खोजें", loadingText: "130+ योजनाओं में खोज रहे हैं..." },
+  ml: { placeholder: "ഉദാ: ഞാൻ കേരളത്തിലെ 32 വയസ്സുള്ള ഒരു കർഷകനാണ്, 2 ഏക്കർ ഭൂമിയുണ്ട്...", greeting: "8 ഇന്ത്യൻ ഭാഷകളിൽ ലഭ്യം", searchBtn: "🔍 എന്റെ പദ്ധതികൾ കണ്ടെത്തുക", loadingText: "130+ പദ്ധതികളിൽ തിരയുന്നു..." },
+  ta: { placeholder: "எ.கா: நான் கேரளாவில் 32 வயது விவசாயி, 2 ஏக்கர் நிலம் உள்ளது...", greeting: "8 இந்திய மொழிகளில் கிடைக்கிறது", searchBtn: "🔍 என் திட்டங்களைக் கண்டறி", loadingText: "130+ திட்டங்களில் தேடுகிறோம்..." },
+  te: { placeholder: "ఉదా: నేను కేరళలో 32 ఏళ్ల రైతు, 2 ఎకరాల భూమి ఉంది...", greeting: "8 భారతీయ భాషలలో అందుబాటులో ఉంది", searchBtn: "🔍 నా పథకాలు కనుగొనండి", loadingText: "130+ పథకాలలో వెతుకుతున్నాం..." },
+  kn: { placeholder: "ಉದಾ: ನಾನು ಕೇರಳದಲ್ಲಿ 32 ವರ್ಷದ ರೈತ, 2 ಎಕರೆ ಭೂಮಿ ಇದೆ...", greeting: "8 ಭಾರತೀಯ ಭಾಷೆಗಳಲ್ಲಿ ಲಭ್ಯ", searchBtn: "🔍 ನನ್ನ ಯೋಜನೆಗಳನ್ನು ಹುಡುಕಿ", loadingText: "130+ ಯೋಜನೆಗಳಲ್ಲಿ ಹುಡುಕುತ್ತಿದ್ದೇವೆ..." },
   bn: { placeholder: "যেমন: আমি কেরালায় ৩২ বছরের কৃষক, ২ একর জমি আছে...", greeting: "৮টি ভারতীয় ভাষায় উপলব্ধ", searchBtn: "🔍 আমার প্রকল্পগুলি খুঁজুন", loadingText: "১,০০০+ প্রকল্পে খুঁজছি..." },
   mr: { placeholder: "उदा: मी केरळमध्ये ३२ वर्षांचा शेतकरी आहे, २ एकर जमीन आहे...", greeting: "८ भारतीय भाषांमध्ये उपलब्ध", searchBtn: "🔍 माझ्या योजना शोधा", loadingText: "१,००० + योजनांमध्ये शोधत आहोत..." },
-  gu: { placeholder: "દા.ત: હું કેરળમાં 32 વર્ષનો ખેડૂત છું, 2 એકર જમીન છે...", greeting: "8 ભારતીય ભાષાઓમાં ઉપલબ્ધ", searchBtn: "🔍 મારી યોજનાઓ શોધો", loadingText: "1,000+ યોજનાઓ માં શોધ..." }
+  gu: { placeholder: "દા.ત: હું કેરળમાં 32 વર્ષનો ખેડૂત છું, 2 એકર જમીન છે...", greeting: "8 ભારતીય ભાષાઓમાં ઉપલબ્ધ", searchBtn: "🔍 મારી યોજનાઓ શોધો", loadingText: "130+ યોજનાઓ માં શોધ..." }
 };
 
 let selectedCategories = [];
